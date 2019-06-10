@@ -5,7 +5,7 @@ package fuzzflate
 
 import (
 	"bytes"
-	"compress/flate"
+	"github.com/klauspost/compress/flate"
 	"io/ioutil"
 )
 
