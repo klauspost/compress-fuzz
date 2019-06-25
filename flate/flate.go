@@ -11,16 +11,20 @@ import (
 )
 
 func Fuzz(data []byte) int {
-	r := bytes.NewReader(data)
-	fr := flate.NewReader(r)
-	data1, err := ioutil.ReadAll(fr)
-	if _, ok := err.(flate.InternalError); ok {
-		panic(err)
+	// Enable to focus on decoding.
+	if false {
+		r := bytes.NewReader(data)
+		fr := flate.NewReader(r)
+		_, err := ioutil.ReadAll(fr)
+		if _, ok := err.(flate.InternalError); ok {
+			panic(err)
+		}
+		if err != nil {
+			return 0
+		}
 	}
-	if err != nil {
-		return 0
-	}
-	for level := 0; level <= 9; level++ {
+	data1 := data
+	for level := -2; level <= 9; level++ {
 		msg := "level " + strconv.Itoa(level) + ":"
 		buf := new(bytes.Buffer)
 		fw, err := flate.NewWriter(buf, level)
@@ -43,7 +47,7 @@ func Fuzz(data []byte) int {
 		if err != nil {
 			panic(msg + err.Error())
 		}
-		if bytes.Compare(data1, data2) != 0 {
+		if !bytes.Equal(data1, data2) {
 			panic(msg + "not equal")
 		}
 		// Do it again...
@@ -66,7 +70,7 @@ func Fuzz(data []byte) int {
 		if err != nil {
 			panic(msg + err.Error())
 		}
-		if bytes.Compare(data1, data2) != 0 {
+		if !bytes.Equal(data1, data2) {
 			panic(msg + "not equal")
 		}
 	}
