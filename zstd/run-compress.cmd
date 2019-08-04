@@ -4,4 +4,4 @@ del /Q %CORPUS%\crashers\*.*
 del /Q %CORPUS%\suppressions\*.*
 
 go-fuzz-build -o=fuzz-build.zip -func=FuzzCompress .
-go-fuzz -bin=fuzz-build.zip -workdir=%CORPUS% -procs=6
+go-fuzz -bin=fuzz-build.zip -workdir=%CORPUS% -procs=4
