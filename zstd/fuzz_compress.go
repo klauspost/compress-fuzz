@@ -3,8 +3,9 @@ package fuzzzstd
 import (
 	"bytes"
 	"fmt"
-	"github.com/klauspost/compress/zstd"
 	"sync"
+
+	"github.com/klauspost/compress/zstd"
 )
 
 const (
@@ -31,7 +32,6 @@ const (
 	// For now this is not implemented.
 	SpeedBestCompression = SpeedDefault
 )
-
 
 var dec *zstd.Decoder
 var encs [speedLast]*zstd.Encoder
