@@ -1,11 +1,15 @@
 package fuzzfse
 
 import (
-	"github.com/klauspost/compress/fse"
 	"strings"
+
+	"github.com/klauspost/compress/fse"
 )
 
 func FuzzDecompress(data []byte) int {
+	s := fse.Scratch{}
+	// Max output 1 MB.
+	s.DecompressLimit = 1 << 20
 	dec, err := fse.Decompress(data, nil)
 	if err != nil && strings.Contains(err.Error(), "DecompressLimit") {
 		panic(err)
