@@ -24,7 +24,7 @@ func FuzzDecompress(data []byte) int {
 
 	_, err = dec.DecodeAll(data, nil)
 	switch err {
-	case nil, zstd.ErrCRCMismatch:
+	case nil, zstd.ErrCRCMismatch, zstd.ErrDecoderSizeExceeded:
 	default:
 		panic(fmt.Errorf("buffer decoder could decode, but blob decoder returned: %v", err))
 	}
