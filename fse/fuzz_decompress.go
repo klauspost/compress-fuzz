@@ -10,7 +10,7 @@ func FuzzDecompress(data []byte) int {
 	s := fse.Scratch{}
 	// Max output 1 MB.
 	s.DecompressLimit = 1 << 20
-	dec, err := fse.Decompress(data, nil)
+	dec, err := fse.Decompress(data, &s)
 	if err != nil && strings.Contains(err.Error(), "DecompressLimit") {
 		panic(err)
 	}
