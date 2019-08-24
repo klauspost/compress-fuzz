@@ -23,7 +23,8 @@ func FuzzCompress(data []byte) int {
 	}
 	// Test writer:
 	var buf bytes.Buffer
-	enc := s2.NewWriter(&buf)
+	enc := s2.NewWriter(&buf, s2.WriterConcurrency(2))
+	defer enc.Close()
 	n, err := enc.Write(data)
 	if err != nil {
 		panic(err)
