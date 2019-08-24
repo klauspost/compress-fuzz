@@ -2,6 +2,7 @@ package fuzzs2
 
 import (
 	"bytes"
+	"errors"
 	"io"
 	"io/ioutil"
 
@@ -9,7 +10,13 @@ import (
 )
 
 func FuzzDecompress(data []byte) int {
-	_, err1 := s2.Decode(nil, data)
+	// Max size 10MB
+	const maxDstSize = 10 << 20
+	err1 := errors.New("too large")
+	if l, err := s2.DecodedLen(data); err == nil && l < maxDstSize {
+		_, err1 = s2.Decode(nil, data)
+	}
+
 	dec := s2.NewReader(bytes.NewBuffer(data))
 	_, err2 := io.Copy(ioutil.Discard, dec)
 

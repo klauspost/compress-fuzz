@@ -23,7 +23,7 @@ func FuzzCompress(data []byte) int {
 	}
 	// Test writer:
 	var buf bytes.Buffer
-	enc := s2.NewWriter(&buf, s2.WriterConcurrency(2))
+	enc := s2.NewWriter(&buf, s2.WriterConcurrency(2), s2.WriterPadding(255))
 	defer enc.Close()
 	n, err := enc.Write(data)
 	if err != nil {
@@ -32,11 +32,19 @@ func FuzzCompress(data []byte) int {
 	if n != len(data) {
 		panic(fmt.Errorf("Write: Short write, want %d, got %d", len(data), n))
 	}
-	err = enc.Flush()
+	err = enc.Close()
+	if err != nil {
+		panic(err)
+	}
+	// Calling close twice should not affect anything.
+	err = enc.Close()
 	if err != nil {
 		panic(err)
 	}
 	comp = buf.Bytes()
+	if len(comp)%255 != 0 {
+		panic(fmt.Errorf("wanted size to be mutiple of %d, got size %d with remainder %d", 255, len(comp), len(comp)%255))
+	}
 	dec := s2.NewReader(&buf)
 	got, err := ioutil.ReadAll(dec)
 	if err != nil {
@@ -57,9 +65,12 @@ func FuzzCompress(data []byte) int {
 	if n2 != int64(len(data)) {
 		panic(fmt.Errorf("ReadFrom: Short read, want %d, got %d", len(data), n2))
 	}
-	err = enc.Flush()
+	err = enc.Close()
 	if err != nil {
 		panic(err)
+	}
+	if buf.Len()%255 != 0 {
+		panic(fmt.Errorf("wanted size to be mutiple of %d, got size %d with remainder %d", 255, buf.Len(), buf.Len()%255))
 	}
 	dec.Reset(&buf)
 	got, err = ioutil.ReadAll(dec)
