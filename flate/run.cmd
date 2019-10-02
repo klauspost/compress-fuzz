@@ -2,9 +2,8 @@ SET CORPUS=flate
 del /Q fuzz-build.zip
 del /Q %CORPUS%\crashers\*.*
 del /Q %CORPUS%\suppressions\*.*
+SET /a PROCS=%NUMBER_OF_PROCESSORS%/2
 
-REM go version >log.txt
-REM go env >>log.txt
 go-fuzz-build -o=fuzz-build.zip -func=Fuzz .
-REM go-fuzz -minimize=5s -v=4 -bin=fuzz-build.zip -workdir=%CORPUS% -procs=5 2>>log.txt
-go-fuzz -minimize=5s -bin=fuzz-build.zip -workdir=%CORPUS% -procs=6
+go-fuzz -minimize=5s -bin=fuzz-build.zip -workdir=%CORPUS% -procs=%PROCS%
+
