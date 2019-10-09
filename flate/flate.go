@@ -5,9 +5,10 @@ package fuzzflate
 
 import (
 	"bytes"
-	"github.com/klauspost/compress/flate"
 	"io/ioutil"
 	"strconv"
+
+	"github.com/klauspost/compress/flate"
 )
 
 // Fuzz tests all encoding levels
@@ -16,6 +17,8 @@ func Fuzz(data []byte) int {
 	if len(data) > 1<<20 {
 		return 0
 	}
+	reader := flate.NewReader(nil)
+	readerReset := reader.(flate.Resetter)
 	for level := -2; level <= 9; level++ {
 		msg := "level " + strconv.Itoa(level) + ":"
 		buf := new(bytes.Buffer)
@@ -34,8 +37,11 @@ func Fuzz(data []byte) int {
 		if err != nil {
 			panic(msg + err.Error())
 		}
-		fr1 := flate.NewReader(buf)
-		data2, err := ioutil.ReadAll(fr1)
+		err = readerReset.Reset(buf, nil)
+		if err != nil {
+			panic(msg + err.Error())
+		}
+		data2, err := ioutil.ReadAll(reader)
 		if err != nil {
 			panic(msg + err.Error())
 		}
@@ -57,8 +63,11 @@ func Fuzz(data []byte) int {
 		if err != nil {
 			panic(msg + err.Error())
 		}
-		fr1 = flate.NewReader(buf)
-		data2, err = ioutil.ReadAll(fr1)
+		err = readerReset.Reset(buf, nil)
+		if err != nil {
+			panic(msg + err.Error())
+		}
+		data2, err = ioutil.ReadAll(reader)
 		if err != nil {
 			panic(msg + err.Error())
 		}
