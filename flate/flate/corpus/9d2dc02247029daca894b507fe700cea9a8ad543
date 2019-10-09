@@ -1,0 +1,637 @@
+˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜¸˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢ÃÃ|,ÊAÜw}ZŠåQ:
+ ‹|Ã|||·NYûK@ þ}ÙöÄ<ûæ/Å
+õÈÁ˜X‘ž0µØm"Ó²è
+^
+Ã|ÃQ||
+||
+ßÜã–«||ÃpÍ| äÝ¡®n||ß|
+±ÇÙ||||Jd³±V€„²óx~OÃ||ÃQ|Ãj1	SIÛÇbõJõ|Q
+|ÃÃ
+Ã|||Ã||®s±-^Æ‰¨J93¶~ÃaÃÕf‘Œ§*±-,žÿ™¤:)Lñ*Ã|ÃÐ{‘|
+Øê”DwÑQ{@|3“N†o||>>‹ñÑc³Ê |¨cœ|||||||hÓI%7ÓÃ
+
+|ÃÃ|||||
+|||d Ö:Š8uÐÞ|||
+|Qö)—G3¿|¤âŽ%|˜||r|||ß|
+||||
+||×ïzK;39t«4v(¤7Ò8Û#"|ß|Rd2Z6ò§Ã|Ã
+
+zµß»·›‡|¢êŠP‰a°|¢XÃ`¬8šƒB¢,WC=Q|ß|ËWþD¤ïU’lW£µ||ÃÃ|Q||Ã||||ß||ÃÃ|
+|
+|
+¬¤Ü|Ð^]—‚ÔÌ‘Âgš;u†ŸÃ|
+|||ÃÃ
+‰|„Ó-1°||||ãã·Iê-™Ã¹/@®³ dëw}Ã||
+ÃÃ^,,°•MÔ ¹ÃÃ||Ã||Ã0tŠûM¿@†-ÃÃQQ|Ã||ÃÃ|Ìú&>÷nG3¿ÃÏö`½mž­™B^ì
+Ã||i²%±ÎOÃØ½m>|j€àã 		|?5Ã||Ã|Ã|Ã|û
+ÃPŽ9. |||Ã|||­Ý|½ ÃßK5!
+u†¯	
+zµß»·›‡|¢êŠÃ&|||ÕL­Ã|Ã|ÃÃ|
+|||it@@Ú«!mÝ¶x)ÖàLóP|9¦:Ã|ÃÃ&¢Q|ÃÃ¢ tæˆ³%éÁ˜‰õ‡UCJ:|||
+||LrN|=á|Ã||||||||ß
+î-"â|ÃÃ|4!ô{„ -©vÃ||||||òÈ||^ò<‰Æ6“îÃ||||¬88OU›8 ¢¢of5¢÷KåâòmïÃÃ||Cxë	D
+|Ãå^ì‰„´F
+Ãr Ï±õÍ’6.|èð||Ã|||||ßÃpÍ H§ª@S
+Þo×¬³ÕÆ-:||¢¥^¸ã{¢¢¢Ã
+Q|˜…º0tŠŒ”¸|
+˜|Ã³|ã7ój-fl||•acz†—ÈÃ|m |
+|||/T)%ôµ}‹1¶ 	‚
+Ã|||||
+ÃËM|Ê1¶vMÔf·rÎ±Ú‘‰³¶Þ„É»||Ô÷NŠT’‡JõáÓùìÙó%±|ÃQ|Û¢=Š¸=
+|Q
+||||ÇêÏ$`]†N·EÌ	t%ZYÝETWH±
+|Q||
+|ÃÃûÃÃ|||||ÃÃÃ|ËÂ%íUäs ¢¢of5¢÷Kåâò
+ÃðâU§in64ØŠ
+) k¢4y}Vî0|ÃÃ|||Ã|||Ã	2ee	`•ã|ú=ÔZÍ05Ø¸mJ0´||¡	N|Ã||||Ã
+Ã|Ã|
+
+|Q|…%‡ÐâÈ>QÃ
+|||ÃÃÃ|||||||Q|Q|Ë^*ŒÔ˜|¶ì¤Äpç|–D¤I||Q«µ7½$°Ší^qÞe?ÃðÏÂÊ*ÀJ•ÚÃÜævLCûcI|=||QÃ||ÃÃzÝ"—IQeÃ|Ê„X%b•Ã||
+|>T‰ÖÞûô|Èë@ÅiR¼!,|Ã|||||×dÝ|
+||||
+| ÔN~f’ (_ì™7ñÂb½|ôØ±xý||Ãµ¼ñ©v>¹þ~úøûÓ ÃÃ|||Ã|Ã|
+Ã|>Ã||||||Q˜”!…ð1iQ||
+|ÃÃÃ||Q˜|
+|Ã"…M–y®»‡	•}qKðP7ÿù7”N>IQmÁœ5ÊÁºÍ¾`´C?¿M|ÃÅj|7|‹­".ó
+¢õ‹|4™
+[|||||
+º§|¨*œ|«šÚa$‘˜?||ûÃÅ||ÂÎ;sLÆ±Á¥²@ÃÃ|
+|Ê.mSZÉê)dK–¯ïU’|f‡|˜|
+Éð
+_Ÿp
+|˜XƒÀ"|2Wyµ²J6Ö ç%ˆ”ÿðMµðióåìçÃIQeJ~¸í^¬ØQ¢rÌ¬,ÔwY…||
+ÃQ|]œÔïj"â
+||a=¬Î# ö|•ˆ|Ã||Ã˜|æÈ¿Ó:Ã||Ã||Ã|˜
+ÃÃ|||Q||
+|Q|
+||||Ã|ÃÃ|ÃO|–6¡ì‚±X‡Z@ÃÃ||ÃÃ|||
+|ÃÃ||œ,ó¹ÕJQŽuc¨#uSâ|
+|||BÙk;¶ØŠO8×æt|t¤eZ‹~® ŠMy|||
+Ã||||ß|Â Å<u¼|ÚÉïl<á0}Þ|||||QÃÃÃ|||ùCÆ		¯|Ã|ÃÃ|||||}š¤k¤¦™žÿBÃ|}òÈ
+Ø½m>||íZÙ ~ó|Ã
+ÃÃÙP?[e'nmhTÌÃQrð
+‡½h:Åÿ¤Ã|||||Q||
+|||ž@ŸÐyQ¢ÄØ.…:xpi{QfåH
+@·W…m‹ñ« 
+|–…ÌÎ ~®ý
+u|¥|‚°TÕ¨õÃ ÁÍOê²ç~ß ¢v-y2gCc|Q|Ã|
+Ã˜ÃÃÃÃ˜ÃÃßµ@ÃÃý½â||
+|||QQ
+Ã|&||QÃÃ
+ÃÃ|||||
+|Ã|
+||QÃ||||t„ùÃ
+ÃÃÃ|
+||Ã|w|Iöîµ@ÃÃÃ|ÃWàªÌóF s=w Œ"Áw1|Ã|
+{8Þ7ÿTèWTO+·ƒ£&/H3·^m
+|Ã|Ã||Ã|||||
+|Ã||
+ÃÃ™©¼„÷ò@@ 
+	
+ |||	
+	Ž½âýžørë"“œÃ|
+|Q|ÃRï7ã½
+	µR¬|QÃÃ|Ã||˜|||i×n64ØŠ=Q|»“„[”ße>{nÿvëiÿèA§Ÿ2Ü¸%J¢QÃ||Ã|Ã
+
+Ã|||||||Ã||
+|Q|||||Ã|||"”£|Èrr.||Ü?|êŠ8|;Ã‘x||
+|||Ã||ˆ”Ep½%³óºÕ¢9ËŽ†1ç9InZ|Ã|Q|QÃ|
+Ã|ÃŠ
+p|r-Eý|L|ÃÃ|Ã|Å.LqNò^|||
+|Q||€“g¢Š||ÃÃ¢¢šr-$‘Û_vu7í²¢ßÊ_y¬*³WÁ“Ø|?5êŠÃPÁ¥²ÃÚÀ²Q¹
+‰VWXòºø¤F%
+|Ã|Ã
+‹¯°i•ã?M|ÙÓ…næ²L£†£ÔY¨»YÃ|UVì/•H€@˜||
+||||ãr³øö||Ã|||ÌQw»	_vu7¹´ÃÃÃÃm||Ã|||Ã
+
+Ã
+|
+| GwŽÃ
+|||Ã|
+Ã|||ÃÃÃÃ||u'š–ÐiC¸|³eä•=fä‰|Ø|Ã|Ã|||||Ã|||||ŠxŠÿ|TyåH¢ÇØóŸ~:d„
+||¯I´ÏÃ|||||Ã||||Ã|||Q||Ãžò€œb7—×|D§l+Ã
+Ã|||||¡|k™T``ÃQÎºŠ×‘®Ú¹|Ã|||ÃÃ|
+|Q||U||ÝEsº"5*’{||Ã
+||
+˜Ã|Ã||||||||
+|||
+||||ñhaüHµ	-þ8Fò5²qMÅ_–|ÃQÃÃ{2Ü'»^åsRL¢e@|||wŽ.VG!DPßé@ºß¢œ|
+n¢¢Ò"P€%Šô’íÌ¯bÓx `[#
+_”Hð|
+||||ÃÃ|||||QÃÃ|Ã||˜|||i×n6|Q|
+|˜˜||Ã|”Q|
+Ã|||ØóŸ~:dè¹||||'7ÝÁÛ¯î˜Ê„X%b||||Q~_*|||Ã||ÃÃ|
+
+|||?Ö^||
+Ã||Ã||
+||Q&ÃPËà¶õß–Y¶Xøž	«Dyàës“C*ÂìI‡ßA"á¹ÓOÑLqˆ #þQŒ/´øä]ql+
+|
+|
+
+Q|Ã|||
+Ã|||Q˜v˜||
+˜
+|||Ã||||||ß|Ã‰Ú«!®gí'ó¦ŸELJ7Å`/||||||Q|Q|Ã|Ã||¯Þuw|Õ||||||
+|Ãþz˜d ·7¢||hÓIêóŠ|||ÃQÃ|||Ã
+Ã||ÃÃ|Q||ÃÃ|ÃQÃ
+|||||x3*|Q||Ã|0Ã|Ã|
+F[rN||Ã
+||||äh>WàªŸ—r%>›|||ÝßhË Ú¹"§F}tv…ð1i†_ä)‘YƒwY…ÊN0ýí'óm=K{ùlî|Ã|*úîN|Ã
++”¢.kÝÑÔµd|||ÃmÞº<L¬Ã|||||||Ã`¬8šƒB¢,WC=|Ã g’Ú)É±Ò×—|šç„º|6è¶Ö[áÃßé@ºÔÒ
+˜|||Ã||Q||Ês&Ãñ€õÃ||||åˆ=oŸ¢Á”¡:HyaÈoÆ/aU¦*6‰usÙì‚…Ñ|
+yå|%fäcÃ||||Ã|||
+|ÃÃ||œ,ó¹ÕJQŽuc¨#uSâ|
+|||B|||Ô÷b•ß¹íõkê€›JH	âù–“·ÛóÿÎÏ·€	n÷6‚\G£hýîˆŠ‡
+¨ ü}J‘¡3+m_ß^þÐf,«O—PŽ9.3ÉÃ|||6±¥7Q||||Ã||ÃÃ©û0ðíµ)¨mí|Ã
+]±
+	Ž|||RÓ¡J||…RaàÈË_||ðWèƒB¢Œ	Ú||||||||Ã|
+|
+¢”qG|UV5{s¿™‹k0Yrë
+
+_¢rß¢t¢¢î|jK ›‰…`å õëŠ²ª«¢Ì2~ˆ‘®|ËOúà&Sd?XŽ3ràQW Ëë@Åi|&|
+Ç%=¤™¢“ð·!jtæÃÃ
+Ã||Ã||Ã|
+|«­O°{||
+||Ã˜|||||(¢v-™	:³k¹4øâ0|(«š°ç||||Ã|É‰[72ÒzÃ||ÃÃ|Ã||pçê?v|QÃ||ÃÃ||²ªmáh3ÔÔôS‰ÃâÑ/*© ÃÃÃ||||Ã|œ‚ˆ;ð|p½%³óYù ÃÃ|ÃÃ||Q†|±ªŸ|h||
+ÃQ|ÃQK|||Ã|QÒdžSZÒ
+e°oÜIÛÇb|&Ã|||°|¢XÃ`¬8šƒB¢,WC=Q|ß|ËWþD¤ïU’lW£µ||ÃÃ|Q||Ã||||ß||ÃÃ
+||Q|ß|ËWþD¤
+Ã
+|QÒdžSZ|ÃQ|||Ã¤V€u
+µïÔ£Û|¼ž|||ÃÃ|Ã‚º ºt|
+
+Q›¨:	ò UT¾G
+|||||QÃÃ
+|ÃÃ|QÃÃÃ|kËér$–i
+||
+
+|
+|«Á+LæYÖÖÆ¨O±||
+|||||Ãå|¦mÐyQ¢Ù:âÃ|ÞÃ||Ã|Ã|Ã||PN‚Ã|||ƒ|ÐF6||«
+||Ã‰ê)d´Ã¶ù¾‰3½K¦Úá—‰EWèƒÆwú |||||˜g»^ Ã¢àSjÌýOQ
+
+||+p;UÜ‹ï3Ý"ÃþÅ4©•\©DÚ'¸ÿ±©¿
+Ò(ùnÉ$Z3gj1	®.(Ã(BÎ”Ã||ÃÃ||QÃ|Ã||Ã
+||Ã||||
+||
+|Ã|ÃQ|ÃÃ||!d
+
+Ã|||
+|Ã||øä]|’áö»²C|2ÜaãâÍñÊÔb VLñ|œñ[õ&Ò||
+Ã|äÛ®ÑòÑ|ÓÉ|œž|
+|ìõš’÷x
+|]O$øÂ±
+\¹v-åk;¶|é­ïœˆ
+Ã˜|
+||ž>J¼ŠhSúfžà¿&Ã
+|¯
+Æïõý| q—Ü7‡½h<Ù.I‹sX€9¡®n€^§ÃÁ­æ
+Ð#à|‹7‘xÆ"Ú	´ä4hÝñÃ|ÃÃ|Q||||||ÚÉïl<á0}Þ|||||²Êø¤FÃ¯|Ã|ÃÃ|||||}š¤k¤¦™ž|Ã|
+Q||9ÃÑÔ|“
+|Ã|||||||||||||Ã|[e'nmhTÌÿÎÏ·€	n÷6‚\G£hýîˆŠ‡
+¨ ü}J‘¡Ã|m|Ã
+|ÃÃ|Ã||˜X‘	'M¥?‹¯
+Æïõý“QM&Ã|Pq||Ã^ì‰„´F|*Ì	®Z‡
+îRq!RS‘
+	ÛTú|ÃÃT45Òz
+|||||µ/4ž:||Ã|Ã|||î#Ñ¬Ã°˜1«px(Q|Ã||ÃÃQ|ênªô	I†P|$­æ\||||||||||û’!FkvÓ[ø‰ã|
+ß	
+	Ž½âg2êH|||||Q||||Ã|Ã
+|q|ÃB	sÅ¯|||Ã|ò±Õ|ßÃÃ†_ä)‘®¿\
+Ã|Ì `[ý@€û§y
+ •ˆ
+WRæÃ|ôò|Ã
+
+|
+Ã||
+
+Ã
+|Ã|||íÌ
+*§qú‡Ó5|nê¯|<õÃ|Ã|Ã|ÌšT1Á8ÏcÂ
+Ã|k›Î¤ÿj~2e
+|ÃÃÃ|||ÃÃÃÃ"§ôºaÕø(_ì™ä¥³|ÁÌé{€SyH±)d
+QO°‡ÎØï"¦*6‰usÙì‚Ù
+£ƒûÇ|||Q|||ÃQÃÃÃ|r|9õí`+”¢aÃhôßUB
+|6Šú:†ŠögwÝ||ÃûÃÃ|Ã<u¼‹N{Ô¶sðeâFÑîC
+Ý|ÃÏK™ÇÞì¹|ò^.»Á|
+|à&³iAŽ÷Ã|‚~GZo·ÃÃ|—¬m‹K£P§|
+Ã|||Q|||
+|
+Ã|||­V!=˜|
+|
+Ã|Ã|||ÃuÐ½õ‡UÃ
+|||||’!FÛÊÚWt|±G¼’)ò
+>/µ¼ñnÉzµv|ÿ‹|R*Q|||
+€:½m>|WRæBjw£E|˜ÃÃ|
+|ßÄþªæ»ãu©ÃOÖÃ?…ŽùÒ‰©ÃÃ¢KÃÃ|œ¢Q—Ñ{ÒdÃ|Í¾`´C?||Q||r-$‘ÛÃQ|||ÃÃ|||Ã|ÃÀÆ'^@	’…†(g¬Ã||Ã|¢QÃ||Ã|Ã
+
+Ã|||||˜Ã|Ã|ÃQ|||Ã||||Ã|?Ö^ªHÚ®04–½	Ã$j “â¹B|#÷ÿÃžŠhSúf|˜Ã|
+|||
+]cÍñÆŠNÃÃÃ|-x¡öú[–|||ÃÃjD*ö#
+|Q|f
+£ò¥ƒ3|ì…wÃQÉ~Ÿòq|ãhò[|||mÿtÃÃQÃÃµN2~b|Ã|||ŸHÚ‘|å.[E|||´Ã|´´í…|||
+ßÃ|Q&ÃQQ|Ã||||€uõ|||Q||Ã
+
+|Ã|mË^*ïšÄƒô'õ²†a“)»E5°³|
+
+|Ã
+||||
+g?À|Q|Ã|||||ÃQ|||QòƒpG
+|ÃÃ|Ã||Ã||n@áH
+unæK8äŒ÷ûßÃQ¡Q||Ã||
+|||
+Ã||ß
+
+Q|Ã||||‘2Û¡"§ôºaÕø(_ì™ä¥³|ÁÌé{€SyH±)d´ŠºÃßHk¯É|*?˜|/¬nŸÖà¦OÖ|÷\+/4|Zê-™Žm/Ñ@®5@|ç||¨#uêýs|lW£¬–³|Q|Ã|ÃÃ|Q||||ÃÃïk|	
+
+|·Ãü+”¢ÃÃ|Ã|||||||Ã|||
+Ã|ê¢÷Ã||Ã||ÃêÙ=Ío$ô|ß˜¡®n€^§ÃÁñI,IÙP?.W
+¢¢2›èú I||x—­‰iAŽ÷˜
+|ÃÃ
+||
+|™¢h½m¸ú’Ë£k¤ö|•ˆÃ…ð|Ã
+|Ã|?|ÆÎ2|šü-@2ÿËÀÔ§ÜoÂö:ò%¢l||Ã||||||ÃÃ||||Ó…Û|Ã|ÃQÃ¦|||&µþþÃ||||ÃÃ
+||||
+|||||||Ã|ÃÃ| Èhw7¼‹ LóP² é#D,åLø¨
+YäŠ*Ìç||||Ã|||Ã|Ôgí||
+||||­ñZÒ2!{h;||Ú´…m||Q
+|«Á+L||||
+ÃÃÃ|
+Ã3Ãðùp-Ã|
+|Ã
+Ã|||||Ã¤V€u
+Ã
+Ã|þ¨@§§|Ã||¯||||||
+|Ã|||Ã˜|
+íÙk;|||Ã
+
+
+Ã|
+|||Ã||ÃÃ
+Ã||||||
+||||®¸| ¹DÂï6||||
+Q|
+|QQ|Ã|á, ®–|||||á
+°mwZ€‹Í |Û­³Ï'»t¹||ùº|–	vMÔPq…û•šÜÚ³Ã|Ã|||ÃÃ||
+˜||ÃÃ||Ð¹¯p­mž>î†1ç•|®j|Ûn4lîRq|ÝC"ð—¸ª#ØÄBÎ”ÈíS¶ºj¶ù¾Bj‰3“N†|QÃ
+˜||&|g«7‘Þo×¬³ÕÆ-:Ã|6„ÀˆpÍáåÊs&Ãñ€õ	^¼Ã|||||
+|||Ã||ÃÃ|
+ 
+b[Ñ²xÃÏö`d”d£|||Ã|
+Qœ° Zù]
+||
+¹
+@|,à¾YÚ´…Òñb(%Ã|L0<Žñ!Žm/
+||Ã||||Ã||ÃÃ||®¶ÃÚè¾ë€'MÑDRå|RŽo=¾AÑý½â×3Q=ÇâÚÏ’|||
+Ã|||ö|•ˆ)L 
+=|
+Øªu©¥š®ãÔ÷{ß
+|¦á‹
+ž­™Nö`²-«cÍ?||Ã
+Ã€bâ
+
+
+	ìÃÃ|ÃÃ|Q|Ã|||||ïmÌ¬€ñÊ¶¦-xZšgÃ||||||
+
+Ã|
+|Ãºb7||nª||||Ã
+|Ã|?|ÆÎ
+Ã|
+QÃÃÌþ!ïÅL(jÏ|uT¾GÐWd’È5¾}=9‡|
+|||Q|ÃÒ¾ø>||Ã||Ã||41yå|Nºðž*@÷Ë”:mt	|Ã
+|||
+Ã|ÃõPNlÃÃÃÃ||ÃÃ|Ã|˜|Ã||Ã
+
+|
+|_¢ 
+-L­_w|ÃJ7ÊB^ìÎw|™¢h½m¸ú’Ë£k¤ö|•ˆÃ…ð1i||Ã|Ãõ
+ÞhQõ†H‡ZzÖ>Â6Ö¦6$TPÆwú&uŒQ
+|
+
+||||ÃÃhWt†'3–ÐîÜ.W|f‡Õ×Ôb –3•}qKðP7ÿù7”N>IQmÁœ5Ê
+
+sý|ÄÌi»Ã˜|Ã|
+
+||||||QQmÃ||Ã|Q|Ã||Ã|ÃÃ|'èœ+Q||||Ã|ÃÃ||¦VP†¼ÇóãŸS||
+||||? ÿÒ8€bMµðd Ö:Š8uÐÞo×Õ¾±”|QyR||Q||||||Ë˜Ã|ÃÃ||Q||ÃÃ|$ôéÝETWpý¨ÐmÑ
+d³	ïù™Šªg«7‘
+|ÃÃÃ¨Ú"ÊìØê”Dÿ‹ö—“ÉYjÊêÄB||Ã
+||Ã|	|å|||Ã|Ã|
+Ã|>Ã||||I;éHN0ý€wŒjÂ§mt	·ý|||p
+\+77ÃQÉü¦G  |ôB$ÃÃ||×ïzK@;39t|Ã|
+|Q%‡Ðxr`|Ã
+|§°=|åBß
+||ÃN2
+ô†è|È||Ã|||Ã|Ã|ÃÃÃÃ
+Ã||Ã||Êø¤FÃ¯N0ýí||Ã||||||||
+Ã|ßÃÃ|ÃéÝETWpý¨ÐmÑI•‚˜µ´ÊO
+|||€||Ã|ÃQ||ë"ŽšdºaPWþ-™Ã¹/@®³ dëw}Ã||
+ÃÃ^,,°ÃË‰÷Š˜Cµ|"çŸãZï3æÑ|9±öïÃÃ|˜||Ã˜|||
+
+
+Ã|ÃOlÙª1Þ¹¼XžøhS||
+Ã|Ã|ÃÃ|Ã
+|||
+|7œ° Zù]ìýkñåe@eC|C|SZÉÃÃCe>)Ã||Ã||ÝC"|||||Ã||ð¹
+@|,à|Ã
+|QÃ|
+
+||&Ã|||°|T€—„É|ÃÃ||ETWpý¨ÐmÑíµ)¨mí|Ã
+]±
+	Ž|||RÓ¡J
+|ÃÃÃ|ÃÃ
+||QÃ£|||Ã|
+Qœ|íSþ»v|QÃQ|
+QÃ|Ã||N¤î«@;39|•ˆ)|š»©•\©DÚ'¸ÿ±©¿
+Ò(ùnÉ||Q||ÃÃ||ÃÃ|||||ÃÃ||Ã||QÚ\§Ò
+¹‚Èí‰1w8lî||¢~	vÙùc«CÛM–@PÐAM|#xFòŸ</šÍ^Ò8ÃÃ|||ÃInZ´°||m|Ã|Ã||Q||c8Cb|†Ø|Ã||Ã
+
+||
+||||Ã”|Qy° Zù]
+||
+¹
+@|,Ã
+Ã|?|||Ã
+ÃÃ|
+Ã||
+Ã|n)ql+Ã|QÃ|||
+||||
+|ÃÃ||œ,
+|
+|||
+‡ÇU¯°±ªŸå˜\Zž<XÃeÄ»|||Ãk|xŒVú|ñ†u3ÿÏ¨ü|:"¯»bÎ@SÕÁQ
+O||ÞŠx(‹|ÞW‚´Ã|||||||||||
+||Ã||Ã|Ã|ÃÃQ|
+|x¨ü‹Íü@Ùÿx—­q|||Ã†|QÃ
+˜||&|g«7‘Þo×¬³ÕÆ-:Ã|6„ÀˆpÍáåÊs&Ãñ€õ|ÃÃ|
+|Ã||ß>[à³³Ã|³…'|
+J¦ 
+©¼qNò
+Aù_óæØ|,ÙÃ&Ãñ€©Àï3oÁpï¨S#UžxZš·}ÙËÃÃ|
+|Ã|
+ÃÃ
+|Ã
+|ÃÃ||||
+Ã|ßÃÃ|ÃéÝETWpý¨
+Ã|ÃÃÃ||Ò"P||||||||
+|||Ã||
+Ã|QQÃ|ºaPWþ-™Ã¹/@®³ dëw}Ã||
+|||Ã|©É¢<¦‹A…–Œ>Ô3it@@Ú«|
+||||
+
+||› fù§|˜ÃÍñÆ
+||Ã||||mÃ||Ú‘’5|
+|Ã
+|Ã||QÃ|Ã|Ãî3Ê
+SÃ|Ã|ü½f+üà³*zµvé}òÃ[ý@€ûü”ÚÃ|Ã
+|||Ã||
+5.	¬;Q–*™¡‰ëô¢ãi˜pZY		Ð¨|||||QÃ|
+|||¡\VÒ˜UºéÁ•-)¾|ÃÃÃ||5:|
+ÃÃÃ
+Qù|-ê²¨GRlAûj|ÃÃ|||mÓTœPyê®aÜÅ…\À||—‰EWèƒÆwú |||||˜g»^ |||
+|||
+||
+||Ì2~ˆ‘®|ËOúà&Sd?XŽ3ràQW Ëë@Åi|&|
+Ç%=¤™¢“ð·!jtæÃÃÃ||
+|Ï'»|BÍŸ
+||‹óBeú­³qI@C˜
+ÃÃ|||Ì‘Âgš;|
+®Å…¹LÍÿ‹ö—O|
+VBä?	‡Î‡ø[èÃš±{
+µ'w||
+|||||Ã|||Ã|Ã|Ã†è	*îÛdÔ
+|||ÙL‚Ž4|€PÇ
+²xÃÏ@˜|Ã|||||Ã|||||ÃÃ™?#go¿ü9:kîü¿\ÃQÃ|Ã||||Ã|8óO||||žSZÒ
+e°oÜIÛÇÃQÃÃ{2Ü'»^åsRL¢e@|||wŽ.VG!|Ã|||Ã|
+ÐÏ©ØÝ"!¹þ~,ñ¶õPËÃ|||
+Ã|||Ã|Û­³Ï'»t¹||ùº|–	Ã|||è;¦r
+ˆyå^ì‰„´F|*Ì	®Z‡
+îRq!RS‘
+|
+
+|…||
+ÃQ|]œÔïj"â
+||aÃ||
+Ã|Ã|
+
+|Q|'¾!(«Ã|||Ã||Ã||ð—¸ª#|ÃQÃ˜Ÿ<D¢$ÃÃEÓ1mË^*ïšÄƒô'
+|Ãþ}ÙöÄ<ûæ/Å
+õÈÁ˜X‘ž9µØm"Ó²è
+^
+Ã|ÃÃ
+|Ã|
+|:ò%G‚ÛÃ||||||
+|||˜|||||˜||||||.|-«þc«CÃÃ|€+üà³*zµvé}òÃ[ý@€||,ÔwY…Ê³||ÃaU¦*6NÝ¨*F'êÐ±<á|é}òÈ2‘PK—8|Ã
+ÃÃ|?)®kvÓ[ryÃ||||||||||ÃÃnªô	I†P3Ì]£6ÝÀ‚ç{82ÌýOŒ²Ô˜||Ã|||Ó/¢|ÃßÃó<gú7œ=|Q||Ã|Ã
+ò|Ã||Ã||ÃÃÃÃ|Ã||áMœqQYü¶Äàë“\ç||´
+ã||	sA¢
+šg­amÝ¶M·hq”ÞnØ
+
+×|D§l+´´í…î¦|ù Yˆã )Ç iFD|C˜||||Ã
+|||
+|||||Ã|ÃQQ||||||ÃÃÃ| Onó‹?-7‹YÃ ||
+àP-p
+||||˜J:ÃŒVú&µ||||Y|n|
+Ã|||ðùp-Ã|
+|Ã)»E5°¦|Ã|onE´ÑcµSÐ…ð1ü
+Ã|| §|¥ä€~	S‰|ÃÃÃ|
+
+|ß|õ?SžQz+Ö 
+Q&yåº	OyCv?|ÃÃ|||ÃQ|Ã||||ÇÄ×,åL:H|
+||
+Ã|Ã|ú=ÔZÍ05Ø¸||||ÃÃZ|||
+ÃÃQ|Ã||||
+
+Ã¸›J]W1Æî±|&©É¢<¦‹A…–Œ>Ô3it@@Únp˜ýz„ -“|ÝMÂ°K“ÃÃ
+
+|ÃâŽQ|||QÃ
+Q
+)hƒ­¹†||O<Ô©|||íx**¬ÚÉï\ÇMùÐ‹»*Ÿì|¹©n|õš’Õ÷x˜||­¹†Ò|O<Ô||||Ã|||é}òÈ||©ÿè_ÄZ÷ÕA±|Œú“ÜÝíÃ»|¾|’^r)||
+|±¥Ò4§ô‹3_Ûø?|}òÈ
+Ø½m>||íZÙ ~à&³iAŽ÷Ã|‚~GZ|ÃƒµSº‹È|Ã|ÃÃÃ||||||
+|Ã||[ëS|•}åC|Ã
+Ã||
+
+Ã
+|Ã|||íÌ
+*§ÃQ|]œÔïj"â
+||aÃ||
+Ã|Ã|
+
+|Q|'|
+Ã˜||Ã||ŠÚ|Ã|
+|ÃÃ˜||||QÃÃ|Ã||Ã
+&Sd?X|Q|
+|Q|ÃýŒ¤|Ã||||||
+||Ã
+
+Q||||Q=||QÃ||ÃÃzÝ"—IQeÃ|Ê„X%bÃ
+|Ã||Ã|Ã||˜Ã´…m||Q
+|«Á+L||||
+ÃÃÃ|
+Ã|Ã||||
+|ÃÃQÃ
+||||QÃ|Ã|||||ÃQ|||QòƒpG
+|ÃÃ|Ã||Ã||n@áH
+ÃÃ{2Ü'»^åsRL¢e@|||wŽ|Ã˜Ë¦|úá4•E||||
+
+||1Á8Ïc||Ã|Ãñ²¡´||%‚¢n½–³|Q|Ã|ÃÃ|Q˜|ÃÃ
+|9
+ì_ncT¡´®ƒyÎ‘x‘‰ë³“|ÃQ||
+Ã|Ã|||||||Ã|
+oÁ
+Ã|||ˆ¬X|·Rm¢OïÐ||ÃmQ|
+|||||“!*p4Ð'üÑ¯Z¹Rå/Xì›è|||3É}¨|ÃOlI¾ué Eéÿèx—­‰i||||¼wc8£s|
+|ÃÃ|ÃÃ||Ã
+MÔ ¹Ú||Ã
+QQ||||ÃÃ|øÈ(¢v-™	:³k¹
+ø³hô]>Â6Ö@nlû|Ã|Ò8kAZ×Ã|Q|Ã|||
+æØ|ƒ¢‡/w(e¹W¢o Çrrù|ÿûÓ ©rýÃ
+|ÃÃ||||||
+|||||Åj|7|‹­".ó
+;ƒ³yQ)kË£|©v„É,DÝíx**¬ÚÉïQ|Ã|¦Ãdˆµ‚º ºt'ÏÛÚyÝ”«Q
+Ã||ÃK—8|Ã
+ÃÃ|||||Ã||||
+||Ã||ÃÃ|||||Q|Ã|Ã
+¤	D…||Ã||Q•=fä‰|Ø|Ã|Ã|||||Ã|||||Šx||||||Q||7~¨]¢Ã|Öo4³”||
+||
+|¢ê1||Ò‘…§1yÖ=|||ž³Ï'Qä9h|CFf<Óí|¢ã_H”eNÅÇCQá‹
+ÅÃi÷i²%±ÎOÃØ&Ã|ò@@ 
+	¿Y^ÃtA…þ†&!ùÉ½õC°Â
+||ÝÌßœžøZïà™Ã||ÃezU|‹¯°i•ã?M
+||˜|||tn…bnHN
+||Ã|Ã||
+ÃŠMy!2 §A¦’9P_||||||Î3Þ¹¼XOS1Ã|||˜|ÃÃ|||||||²Êø¤
+|Ã|¸ª#|ÃQÃ˜Ÿ<D¢|||||
+
+
+QmôÝÃ!Üc¢‹s$…wãMÅÀ@Ù?ÃÁ|m=K{Ã||||Q
+
+|
+|šç„º|6è¶Ö[áÃßé@ºÔÒ
+Ã||ÃÃÃÃ|||Ã|||||||Q|Ã||Ã||˜|
+Q|Q
+|Ã
+Ã|||||||ÃÃ|Q|Ã|||||ïmÌw|ÃJ7ÊB^ìÎw|™¢h½m¸ú’Ë£k¤ö|•ˆÃ…ð1i£“—Ã|@|ý¨#”||
+˜||
+||||ÃÃ||Ã	2ee	`•ã|ú||Ã|¨cœ|||||||hÓI%7ÓÃ
+
+|ÃÃÃ||||Ã|||¥³|	kêÛ¤b¹ø’^|Ã||
+||
+‡œˆNð«h“||ÃíM™|Øê”||*?˜|/¬nŸÜ||||||
+Ã||Q
+|aÕøä]|ÃÅïìb–Ê³³Ã||FMß6“îÃ||Q|	ÛTú|ÃÃT45ÒÃÃ||Ã
+|||
+|||||Ã|ÃQQ|ÃÃ|Ã|ÆD_ñÿ{”Q¼ù@C³ó†Ý"|Ã|Ã
+Ú—•‘·z×÷©õš’Õ÷x˜||­¹†Ò|Ã||||Ã|Ã”Dÿ‹ö—“\ß’|XßH^®ñÈU™L­îsH±|||||
+Ãò^.»Áþ|}š¤?|FMß
+é]«ZÃ|­¨©—¬m‹K£P§|
+Q||||ÆÎ©%Þð2QÃÃ	­:[\+žq|||ÔôS‰Ã;¼¯|i‘Þ§þSê&­_ö#:Ûn{ÃÕ³MÓÙc¢Ç|äh>WàªÌóF sÃ|ã„Óë#;”||
+Q|||ÃQÃÃÃ|r|9õí`+”¢aÃhôQ
+Ã||||||||||||Ã|||Ã|||
+y‘”Wu||Ã
+ì€PÇÃÃ||||||Ã|||ŒÔ˜|¶ì¤Äpç|–D¤I||Q«|||| ¢	ÞaÇ|||Ã
+|||||QÃ|ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ|Ã|ÃÃW“Y|x~O–Ã||
+||°°­ñsó|Þ|ì
+
+;âÐ41yÃ||||ÃÃÃ|…ºb|
+|||||\zÒä÷ƒ,u©ûnªô	vê¯|<õ||=|Ã g’Ú)É±Ò×—|šç„º|6è¶Ö|Ã˜|ûæÃ||ÃÃÃ³|||‹»*Ÿì|¹©n|õš’Õ÷x˜||­|Qß
+å.[EØ»·|||Ã|||||72êHÃ||˜Ã|Ã|||Ã||Ã||Ã|||˜|||tnQ3_ÛøBúCªñÚµx(Ô|ÃðâU§i||||||Ã|Ûn{ÃÕ³MÓÙc¢|mï-ÃòÈ||^ò<‰Æ6“îÃÃ||Ã|
+Ã||Ã|æÚ‰£øÂ±
+\¹Òñ •¼ÃÃ·RÄ»r|||˜Ãlv~GIY¿ÃÃÃ”Dÿ‹öë
+ßÃ|˜g»^ Ã¢àSjÌýOQ
+
+||+p;UÜ‹ï3||||||
+¢XÃ`¬8šƒB¢,WC=|Ã g’Ú)É±Ò×Q||Ã|QÃ|||¬î)ÃC<`–ÓI/4ž:|˜|&|Ã||x¨ü‹Íü@Ùÿx—­q|||Ã†|QÃ
+˜!T|ÃÃ
+||Ã||||||QQ
+µ||Ãj1	SIÛÇbõJõê?Üqqqqq,,¢q,çqçqqq,¢q,,,¢,ç–––,q,Óçqqqq,qqçqq¢,––––––çqqçç,qqŽq––––––––qq,q,,q–––––––qçq¢]q,q,q,q,ççq]qqçqqq,qq],,q,–––––ç–––q¢,q,q–––q,,–––––––q,qqqqq–––,çq,,¢,qçqŽ,qç]qqçç,qç,,,qq,,q,,qç¢,q,q–––qqqqqqç–––––––,¢,qqçq,,qçq,qq–––ççqç,qç––––,qq,qq–––qq,qqqqq]––––––qq,,,q,q–––qqç––––qq,–––qq,qçq,,qq,q––––––––qq,q¢qq,çq,q–––q–––]qq,,qqq,q,,qqq¢qqqq–––çç],–––qqq––––qq––––––,çqqq,q,q,ç,,q¢ç¢qçqq––––––çq,q]ç,qçqç–––,,ççq,qÓq,,q,q,q]çq––––™nÄq¢qq––––ç,–––––––¢ççq,q,çqqçqqqqqçq,qqq¢qqq,ç,q,qçqqç],q––––––q––––,,––––ç,q,çqq,Óçç,qqqq,q,çq,q],,,qq,qqqqqqqçqq,qq,qqq¢,q¢]qq–––ç¢–––––qqqqqç–––,q,qqqqç,q,qq,]q,–––,,qq¢,¢q–––çç]qqqqqqçqçç¢¢qçqŽqqqq–––qŽ,q¢qqq–––¢qqq,çqqqqçqqçq¢çqq,qq,q––––––––qqqqq,–––,–––,qq¢q,,qç,q],,qç,,qqŽ]qçqq,q,q,q,,,qŽçqq,–––,qçqq,]çÓqq,,––––çq,––––ç–––¢,qq,qqqqq¢q]q,––––––––q]qq,qqqç,,qq–––––––qçq–––––ç,¢,,q,–––q,]çq––––,q,qç]qqqq,qçqqq¢,q–––––,,çq,,qq¢çqÓ¢––––,,,qqqq,,,,q,qççqqq]¢q,ç,],qqqq–––,qqqq]qqq,qqqç,q¢ç¢,,¢,q¢,q,qqqq]¢çq,qqq¢–––,,,,,qçqçqq¢–––––q,qççqq,]ç¢,qq––––––––qç,qqqqq––––,]çqq,¢çq––––q]qç,,–––,q–––––––––ç,,qq,q,qqIçqqq]qqq,qçq,qq,ç,ç]q]qqqqqçq]¢qqq,qqqçqq¢qçqçç–––],q,,qqqq],¢qçqq,q–––qq,çq,,,q,]qqqq,qqqç,q,çqçq,,––––qqqqqqqqqqqq]]çq––––qç,¢ç¢–––,,çq,,q¢q,],¢––,ç,qq]q–––çqq¢–––qq––––,qqÓ,çq,,ç,q,,q––––––qqç––––qÓç,,çqq,––––––––––],çqqçq¢–––,]–––q––––––çqqqqç–––q]ç–––q–––qçqqçq,ççqqq,¢qqq¢qq–q,,ç,¢,qç,qqç,,,q–––,,¢qqqq,,¢qq,,,q,,q,,q]–––––––q,¢q¢ç,q,q¢q,qç¢qqq–––qqq¢–––qqq–––qq¢,çç,qq,,qqq¢,Žq,,,,çqçqqçç,qq–––––––––qqqq,çqqq––––,qqq––––,çqqq],,qqq,¢¢q,çqçq–––qqqq–––––]qçq,,–––,,çq,,],qç¢]q,q–––ççqqqçq,,,qç]q–––qqç¢q–––çqq–––q¢,,q,q¢q]qçqçqq–––q,¢qqq,q,qç,qqq,,q¢qq–––q–––¢qq¢q,ç,]qçqqçqç¢,¢––––q]¢qqq,–––]–––––]çççq–––––––qç,qqçqq––––––––ç,¢¢,,q,,,,qq,q¢qç,,qqqq,qq––––––––––,,qq,,¢q¢,–]qqq,q]¢¢qqçq,qq,q¢q,qq]]q,qqqçqq–––qçq–––––––çççqq–––qqq,qq,q,¢q,ç]–––qqq,çq¢,qqqq,q¢qçç,ç,qqqq,¢,––––q––––q¢qqq––––çç,–––qq–––––q,qqqq,,qqqq,qqqqq,qq–––––qqqqqq,–––q,qççç]q¢çqçqq,çq¢¢,¢¢qq,,qç––––––Óqqq–––––––qqqq¢¢,q¢¢¢qq]ç–¢ç,¢qq–––çqqqçqq,,––––––––––q¢q,,qqq,qç–––qçq¢ççq,qqq,q–––ç–––çç,,,qq––––––ç,¢ç]q¢¢¢qq¢qç,ç¢––––qqqq¢q]––––qqqqççççqqqq,¢¢qqqçqI––––,qqq,qÓ]–––qçç,,,qq¢q,,qçq,çqçq–––––––qçq,q,,çq,ççç,çç,––––qIqçq¢ç¢q–––––––,qqq¢qq,¢,qq,q––,qq,qqçq]qq,¢ç,qq]¢––––,–––qqqq–––qqqq,qçqqç–––çqq–––qq¢çq–––,qqçq¢çç–––¢¢,q––––ç,,,qq,¢,,çqq,ç,,Ó,çq¢qq¢q¢ç,,,,q,q––––,qqqqqq,qq,qq¢––––––––çq,q,q–––,,qqq],Ó¢ç,¢qqqq––––q,qqqq––––q,,q,,q,,–––ç,qçqçqqq,q–––qq,]ç,¢q,qqqqq––––qq¿¢q–––––––çq–––qçq–,qqq¢,¢¿¢q,,q,––––¢,çqqqqqq,¢qqqq–––,q–––çç¢]qqqqç¢–––––––––q¢,qçq––––––––,,qq–––,qqqççqç––––qq–––qqqq]¢qqqç–––qqq,q–––––,qq¢qq–––––––qqqq¢q,q,q–––qqq––––qç,çqç–––qqqq,çqq¢q–––çqqqç,,,çqqq,,q,q¢–––çq––––––––ç––––¢q,qq–––qqqq¢çq,çç,,qçqq–––qqq,,––––––q–,qqççqqçqq–––qqqqqqI,,¢q,q¢q,qçqçqçq]¢qq,––––,qqqq,,]–––q,,qqq,q,qqçqqqqçq,qqqç,,,,qqqq,–––,–––qqq]qq,q–––,qqç¢ç–––q,q,]çqqqqq¢–––ççq,Óqqqq,ç,5,–––––––q,–––qqqq¢ç,qçqÓqqq–––q––q,q–––çç,ç,,qçq––––q,ç,qq,çqq,çqqqq,qç¢–––qç,q,q,Iq,qq––––q–––––––––––,¢q¢–––q,–––,––––––qq¢qqqqq,,,––––––q,qç,ç],,q,,qqq,,ç,qqq],,qqçqqçq¢¢qq,ç,qq,,q,qq,qq,qq,–––,¢,qq–q,qçç,––––,q,qqqqqç–––––q,,çqqçq,¢qqqç–––¢çq]çç––––,qq–––,–––qç,qçqq,q,q,qç,q,qq¢–––q¢qç–––––––,–––––––,q–––,––––q,qqq––––çq,q¢qqç––––––qq,,q,ççqçq–––qqq,,,ç¢q–––q¢ðq¢,qqqçqqqçqq,q–––qqq,qqŽq¢ççqqç,qqqç,q,qq,ç,¢q–––çq]q¿,qq]qÓq,qq,q,¢ç,çqqqqqqçqçç¢qqq],qqqq,,q,qçç,q,qq,q,q–––çq]¢qq,–––,,çqqq,q¢–––––q–––¢ç,q––––,çq–––q,,q–––,qq,qq––––qç,–––qq]–––––––q,qqçqq–––q,qqq,qqq¢qqqçqq]q]¢q¢¢q,ç,qq–––––qq–––]qq,ç,qqç,–––qqçç,,,],qqçç,–––q––––çqç]çq,q,,¢çq¢,qn™,qq,,qq,qçç,qq,,qq–––qqq,ç,,q–––q––––,–––ç,,q,,–––,,q––––,qq,qqq¢qqq¢q––––––qqqq¢,,q––––qq,–––qç––––qq¢q¢çq–––ç–––¢q,¢qqqqqqqqqq–––q,ç,––––q,qqq,q]¢¢]––––––––¢¢ç,q,,,Óçq,¢q,qqq,,q¢qqqqqqçç,¢qq,,]q,¢q¢,,,––––––q,ççq,qqçqq,––––,çq,qq,çq,,q–––,––––––––q,qçqÓ,qqq,q,q¢–––––––q,qçqq,qqqqqç¢qq,,qq–––qç¢]qqq,qqqŽqq,,qqçq,,q,]–––q,,,qççq–––q–––q,¢qçq,q,ç,,¢qçq¢¢qqç–––––––Ó,––––qqq]qq–––q,–––qqçq–––,–––,¢q,,q,,,çqq,,,,,qqq––––qççq,qqqçq,       qqqŽ,qqq–––qqq¢,Ž–––––,çç,,]çq,qçq¢qç,¢ççqç,¢–––q,qqqq,qq,¢q––––ç,qççq––––q––––¢q,qç,ç,,qq]q–––,,qq,qqqçqqq–q,qqqç,––––qq,–––qqçq]qqqqqqqqqq–––,q,çqq]q,qqq,ç,qq–––,,–––q,ç,q,qq,q¢qç,ç–––qÓqç,çq,¢q,qqqç,,qq,¢qqqqqq–––,,qqqç,q,qqç,¢çqqçq–––qqq–––¢çq,,,q,–––ç,qq––––,,q,q,q,q,q–––––¢]qq],q]Óq––––,q¢qq,,qq,¢¢qç,q,qq¢qqq–––qq–––qqq],çq,qq¢çq,¢––––––q],qqqq,,,ç,––––ç,,qç,,¢]qqç–––,,qq,,––––,¢¢–––q,çqqqqqq,,,]çq,qqq,çq––––¢qq,çqq,,¢ç,qqq,qqq,,q–––¢qq–––q,,ç,qçqçqq,q––––ç,qqq,,¢q,,qq,,q,Óqqq,¢ç,q––––––,çq,¢I–––qç,qqçqÓ––––––––Žq,q––––qqq,qçqqqç–––qq,çq–––qq,çqqq,,q]çq,,¢––––––,qqq–––qqçq,qq¢,q,,ç,,qçq,çq–––q¢qq,qqqq,qç,––––çqq––––qIqç]çqqqççqq¢––––q¢–––q,qqçqqqq,––––––––,q¢¢,–––q,q¢qqqç,,q,¢]ç––––––,,q],,q¢q,q,,çq,qç],q,q¢,¢q¢ç¢,ç–––,ç,ç–––qq,],¢çqq¢–––¢,q–––qçqqç¢ç–––ç,,,qqq,qqqq¢,,q,q,––––––ç–––ç,,,¢qq¢qÓ––––q–––qq¢q,,Óqqqq,ç––––qçqqqqqq,qç¢–––––––q–––,qqqç,,qq,q,–––ç––––file f–,––––,qqq––––q,qq,ç,qçq,qêqq,]qqçqq––––¢–]çq,¢,qq,qqqq,,,¢,–––ç,ç,çqqqqq––––q––,,––––––––,–––,çq,q,–qqqqq]qqçq,q,qqqqqqq,,¢q––––qqqçq–––qq,ç]ç]q¢q,,qqq–––ç–––qçq,,]q]¢qq–––çqq,ç,–––,,,,qqqq],]¢qq,¢,q,¢q¢––––––¢,–––qqq,q,,¢,q,qçç,¢q,qq,çq,q–––çqq¢qq¢,qç,çq,,qçqq,],,qq,]qq¢q––––¢q,qqqqq,¢,q–––––,,çqq,,qqç¢q–––,qq]–––qq,,,Iqçq,ç––––çqq]q,qqq––––qqqq,,q–––qç,,q,qqç¢qqqq,q–––qçqq,–––,qçŽqqq¢,ç,qqq¢qqÓ,–––q,,,,çq¢¢q,¢çqq––––q,q]]qççÓÓ––––qq,qqqqq,qqq,–––q–––,,çq,q¢,q¢q,qççq,Ó¢q,,,qqqç,çq––––¢,q¢qqq,–––––q]ç]]–––,,qqqq,qq,qqq,q–––qq,,,qç,¢,çç]¢q]ÓqqçÓ,qqq,çqq,]–––qqq,qqq,ççq,],q,q–––q––––¢qq–––qqqç,,––––q,qqqçqç¢q,–––,qqç]çç,q––––ç,¢çç––––¢q¢,q–––qqq,qqqq––––qqqqçqçqqqq,,,––––qq,q,,çq¢ç,q,––––q,q–––q,ç,–––––––––––¢çÓ,–––––––,qç]––––––,,q–––q–––––––,çqqqçqçq,çqq,¢¢qq¢ç–––Ó,,ç–––––––––¢ðç,],––––––––qq–––––,qq,¢qq–qqq,qq¢qq,¢qçqç–––q––––,qq,,qqqqq,–––––––qÓqq,çç–––––qçq,çqq,,q,qqq––––qq–––qq,¢,,––––q–––,¢q,qqqq,,q,¢–––,ç–––q–––¢q–––qqqq,¢–––ç,qq¢qqq––––––q,qç]¢¢,qq–––qq¢q,q–––¢¢q¢¢ç,qIq¢çqqqçç,,q¢–––––––q,q,,q––––¢–––çqq¢,çqqq,–––q––––––––,––––¢q,qqq–––,çqqqq–––ç,qqq––––q,q,,––]q¢qqqqqçqqqq]qq,qq¢qqç]––––––qq–––çq––––q,,ç¢ç,–––qq]q,ç–––q¢,qq¢,qqqçÓqq,qqççq,,,ç––¢qqqqqqqqq,,q–––q]q],ç,,,qqqqq,qqqçqççq,¢qçqç,,–––,qq¢,q–––––––qqq¢q¢qqqqq,qqq,q,q,,ççqqç]qqq–––qq–––,çq–––qqq,q,q,q,,qq,–,çq,,–––,ç,,q¢q,qçqçç¢,ç¢,,,qç,¢]ç,qqIçqq¢qq,,q––––ç,q,qqçqqqqç,qq–––çç]ç],q–,qÓ],],,,qçqqqç–––qqq,qqq,,–––qçqqçI,q],,q,qç,qq,,,q]q]qqqqqqqqqqq,çq––––çq,¢,q–––qqqq,çq,q–––,ççqçq,çq––qqqqq¢¢–––q––––––––q,q,çqqqçqqq,qqq¢,¿qqq,,qq––––––––––qqçÓÓ––––qq,qq,qç––––qq,]ç,qqq,q,],q¢,qqq,Žq,,q,,qqqçç,q,ççççqq]qq,,q,,q–––q¢,qqqq¢qqq,,q–––çqq,¢ç,qçq,çqq––––qqç¢qqq]q,qqqç–––ç––––ç,,,–––,qçqqç–––,,,]–qçqq,,,¢çççq,çq––––,–––¢qqqq,,ç,,,]çqqq–––––qq–––,ç]],,q,––––q,¢,–––,q,qçqqq,qq,qqn™çqq,,qq¢,q,–––qq,,q––––,––––ç,ç,¢qç]–,q,,,ç,¢,qq,ç,Žqq,,ç,qç]Iqq,qçqq¢,,qq]q,,]qqq,ç,,q]q––––––––,¢¢¢,¢,qqqç,qç,qç––––––––qqqç¢qq–––ç,,q–––qqÓ,qqq,,ç,qq––––qqq,–––qqq,,q,,qqq––––,qççqqqqq¢–––––––––––q¢q––––,q,ççqq]q,,çq,çq,,ç,çç,Ó,qq––––qq–––q,qq¢,,qq,¢qq––––qqq¢qqqqq–––ç,,,qç,qqqq,qqqçç,q,qqçqq,çq–––––ç––––¢––––––]––q¢¢q]qq–––¢,]qq,qq––––,qq,qqqqç,çq,qq,q,,,qq,qqqq,q,q]q]¢q,,qqq,,qqqqqq–––q––––,,q¢,––––,qqqçqq,,qqqqq¢ç,qqqq¢,––––qq¢q¢qq–––çqq,qq¢ç,qqççqqqçç,,q,çç]q–q–çqqç¢qqq,qçqq–––,,q,¢,¢q,¢qq]qqqqç,qq¢,qçq,Óqqqq,q,qqqq––––––––ççqq,,¢––qqç,,qqqq–––¢qqçqê,–––––––––––––,,qç,Ó,––––q,qqqq,qqq,qŽ]qçqqq–––––––q–––––––––qqqqqç,,qqq,qqŽq–––,,–––q,qqqçq,]–––q¢q]qqç,çq¢qq–––qqqq,q,Ž,¢qq,,¢qqqqqq,çqqqqqqqqq]q––––çq–––q–––¢]ççqqq,qqqq,q,––––qq,qq–––¢qqq¢çq,,qqçq,qq,qq,q–––q,çqqq¢ç,]Óq¢,qqq,qq,qqq,]qqqq¢qçqç],,q,–––qqçqqq–––çqqq,,q–––¢q––––ç,q,ŽÓqqq,qqqqq¢qçqçq¢,qqq,qqççqqç,q,–––,,q––––q¢–––q––––,qŽ,–,qq,––––¢qq–––qqq,qq,,¢qç,qç,¢qqq,çqq¢qqqqç,q]qq,qqqçqç,qçç¢,qqçq,qqqq–––––q,qqqqqq],,q––––,qq––––]Óq,]qqqç––––,q,ç,,qq–––q–––,,qqqqq–––,qç,çqçç,ç––––q¢ççç,,çqq,q––––q,–––ç¢q¢qq,qç¢,,,qqq–––––––,ç¢qqqq¢,qqq,qq,qqçq,,–––––qq––––qq,qq¢,çq,––––,q,,¢–––¢qqq]––––çqqççqq–––q],,––––]qq,qq¢ð––––qq,q,ççç,çç]q–––qç,qIçqqq,çqq,–––qq,qqqqqq]qq¢¢,qqçq]qç,q¢q,ç,qq–––ç––––q,q,,qç,,]qq,–––,q¢,Ž––––qqç,,qqç,qq,çq––––––çq,q,q,q,q––––––––,q,,––––qq–––q,qI¢qq,ç,––qq––––q¢]ççq,q¢ç,çqqqq]qq,,qçq,ç,,ç–––çç,,qqÓ–––qqqq¢qqqqqq¢–––¢–––qqçqq,qq]¢q]¢qqqçqçqÓqçç,–––q,q,¢qç,,qq¢,–––––––qq,q],qqqqqq,qq,¢,,qqqç––––¢çqqqqç,qç¢q––––ç,,qqqqqq,qqçq–––,,qqqqqqq,–––qqq–––q,–––q––q,q,–––q,qq]–––ç,qqqqqq,qçqqq,,çqŽq–––q]qç–––Ž¢]qqqq––––––––qqq,,,,–––––q¢q,,qq,çq–––q¢Ž],qqqq––––çq,çqçq¢qqq–––,qqqqq¢qqq,]qq,qqqq¢ç,qqq–qq,çq]qqq,qçqqq,,qçqçÓqçqqq–q,qçç–––qqç,çq¢qqqq––––––¢qç,qqqq,,¢q,,,,q¢qqqq,q––––––,q–––––,qqq,çqq,,q,q¢,çq]qqqç,––––¢,q,qqq,çq,,,¢çq¢,qqqç,q,¢,q,qç–––çççqqq,,q,q,q]¢,,qqq,ç,q,–––––]––––––––,¢q–––q–––¢qqq,q–––qq,,,qq]qq,,q,ççq–––çq,––––,qq¢Iqq¢,qqq,]qqqq–––,,ç–––––––qq,,q,qq¢q¢,qq––––qqç,çqq,q,,q,,,çq,–––q,qqçqqç,q,¢qŽ¢,ç,,qqq]qqçqqçqq]ç]–q,,,q,qq,qq]çç,,q,qqqqq¢çqq,,,––––,,qq¢,qqq,qq]–––,qqqqqçqq,çqqqqq,,–––q¢çqqçqqq,¢q–––,qq¢–––qqçqqq,,ç,qqqqÓqçq,qqqççqçqqŽq¢Ž,,,qq,––––qq,qq¢¢q]¢qqqqqqq,,qqqq,q,¢qçq,,qqq–––çq¢q,¢,qqq¢qq¢qç,qqç–––çÓqç,–––çq–––,q,çq,,,,––––,qqqq¢]çqqŽ,qqçŽq–––qqqqqçç,qq]çqç¢q,qq––––qqqq–––qq,,Iq,q¢,,]qqq,q,qÓq,qq––––,qçqqqqÓ,,q,qç,ççç,ç–––çç,qççq¢q,,,¢qqq]ççqqçq,,qÓqçq,,q,¢q,qq,q–––q,,¢ç¢,qqq–––qq¢q,–––––––qqçqç,q,Óqq,,,q,ç,qq,,,qq–––qqq,,qq,q¢ç¢q]¢qqq,¢ç¢qqçqqç,,,,,q,qq,,ç,q,,q––––,¢I,¢––––qqq¢–––––––,q,q,qqç–––q¢qqq],qqqq,q,qq–––qq,,q,Žq,qq¢q¢¢çq,]q¢,qq¢q,,qqq,––––––––Óq,q––––,q,qq,–––qqqçqq¢q–––qqqqq,qqqçq],,q]q–––,qçqqq,qqq,,q–––qq,çqç,qqqqqqq,,–––¢,qq,,ç–––q––––,,¢–––qq––––q,q––––q,¢Óq,q]–––ç–––,qqqqq,––––––,qqq¢¢––,,q,qqq,,qqqqqq,,q,,–––––––¢,¢qqqq,,–––¢,ç,––––q–––,,,–––,qqç,––qqç–––ç¢–––qq,]q¢qÓqqqq,q]çqqçqqqqqqççqq]q––––q,,q¢,qqçq¢qçqq¢,,,ç,çq¢qqqç,q¢çç¢]çqçq,ç,,ç,q,qqq,çqçq–––––––q––––q–––,q–]––––çq,q¢q]q,,çqqqç,––––––––––qq,,qqÓ,q,qqqqqqqq,qÓçqqqqççqç¢¢,qç¢,,,¢qqqq,,qq,,,¢,,q–––qqqç,,]q,qqq,qqqçqq,qç–––qqqqqq–––ççq––––––,qqççq,,q¢q,ç,¢q––––––q,,,–––,,–––]çqqqq¢qqçqç,qqq,ç,qq¢,,qqqqqq¢qqqq¢,q–––,,ç,,––––,,–––q,qç,qq–––,¢q,qqq,qçq––––ç¢––––¢qqç¢,,qç,¢,,,,ç,–––¢,çq,qçq]–––çqq,¢qqqqqŽq5,,,q–q,qq,,–qq,],q,–––ç,Ó,,çç,q¢¢¢çqqq¢qqq,qÓq¢qqç,––––––çq,,Ó,,qq¢,––q,,q,q––––,q–––,,qqçq¢q,–––qqqqçqç––––,q–––,çq–––ççqq,q¢qqq–––¢,ç,––––ççqq,qç,,q,]q,qç–––çq,q,qq–––ç],q––––qç],–––,çqq–––qq,qq,ç]ç,,¢,,¢,¢q,¢q––qç,–––––,––––qçqq,–––çç––––––––––],q––––,qq,qqq–––––––qçq¢qq––––,,]qqqçqqqq],ç,qq,ç,–––ç],ç,ç,çqqqqqçqq,qç,,çqqqqqç]çq–––,q––––,]qqqqqqq],qq,–––q¢,,çq¢q,qq,qqçqqq,qççq¢q,qçÓççqçqqqqqqq––––q,–––––ç,qqqq,–––––q–––¢––¢qqqq,qqqq]ç,q,çqq,qqqqqqqçqq,––––––,]çq,çqqq,,q,,q,qqçqq,]qqq]I,––––qqççqqq––––qqqqqqq,qqçççqqqqç,çqqqq,¢çq,,––]qqqqqqqÓ,,q¢q,qqqçqq,¢qq,qqqŽq–––,¢q,,,qç¢çqç––––qqq¢,],q,qqqççç,,qq,–––,ç,,q¢qq,q–––q,,qqqq–––,çç,qqq,q,¢ç¢çq]qIqqççqqçç,qç,]]q,qçq––––,qq,çç–––qq,q]q¢q,,–––––––––––––––q,qq,,]q–––qqç¢––––––qqq,ç,]ç,–––qçqq,ç,q]çqqq,çq¢q,Ó,qç,,–––q¢q,qq,–––,qçq–––q,qçq¢,,çq,qçqqqq,,çqqqqçqq„Óë#;”hØ0<~Ž˜Q7.n^||||||||Ã|||||Ã‰Ú|
+||ÃÃ|||||||ÃQÃ|||Ã|QÉü
+ÃQ|Ã|Ã|Ã|Ã"Ÿ½~þ«ñÛ²í|„Ìß´®ôÍ2]¢K|&|Ã|
+||QÃ||||t„ùÃ
+ÃÃÃ|
+||Ã|w|Iöîµ@ÃÃÃ|ÃÝÀ‚ç{
+Ã4h|
+ÃÃ™©¼|&|||QØ"!¹¤w²¹îþ›|Ûw<w}Z[ÅêˆpÍ H~cäêR÷ò@@˜¯Z¼‚ç’÷•Óß@wÊar?~|ÃÃ||jtæ !m|##
+€~	¸… ÷ƒ,D@Õ¿|QhÙ||||
+|||||||ÃÃ|Ã
+|
+||&|
+
+V€„²óx||Ã|Ã|×“©Ã¢Z\zÒÛÉâ"â
+_3ý›J]môâìÄûz×ê)d||¥²ÃÚÀ²Q¹
+ÚÉïl<á0}Þ|||||²Ã‘;E 
+2ñS)||||ÃQÃ
+||
+Ã
+||||||||
+Ã|Ã||||||\zÒä÷ƒ,u©ûnÏ|Ã|˜Ã||Ì‘Âgš;ô	I†P3|Ã|||¼wc|Ã||||ÃÃ|ÃÃ||Ã|?unæK8£JC!P||\$œÃ|
+||
+
+
+Ã||||Ã|Ã|8óO|Ãºb7|||Q˜|Ã|Ã˜
+|||||Aµü˜‡ÚŠN|Ã„OJ@YwÜ÷”äÎÃâÑ‰52?Ö^ªHÚ
+|||ÃÃ||Ã|||||||||||Qƒ
+Ã|||Ã|Ã||||ÃÃ|||Ã
+|||Ã
+|
+|Ã|ÃñI,Ãû|Ã||
+ß
+|
+|Ãú Vê!#‚ag|
+|Ã|˜
+Ã<R¶{í‡ýIm$k|xŒVúÃ||Ã||Q||||Ã|çŸãZï3æÑI||Q«µ7½$°Ší^qÞe||Ã||Ã
+
+|
+|_¢ 
+-L­_
+||||ºðž³||
+|
+|
+|ÃÃ|ÃÃ|||ÃÃQ|
+
+
+Ã||ÃÃ||||||||ÃQ| 
+-L­_w|ÃJ7ÊÃ|ÃßÃ|||£%ï||¶š>Ã|·Rmê#B U6|Ã||
+||¢¢¢ã_H”eNÅÇC|ìÃDy¡¾ÃÃ|
+||©ÿè_ÄZ÷ÕA|Ã
+ªHúÆë»)|
+Ã|||
+Q|ÃÃ
+||Q|
+Ã||||Ã|Ã||
+Ã||Ã|
+oÁcJ|||Ã||||||
+||¢Ãþ­õ`¬8šƒB¢,WC=Q|ß|ËWþD|ÃQ|Ã|Ã|‰÷Š˜Cµ|Æ|||||||||
+
+||||||ÃQ||||||m||m||
+||||||||
+|
+
+Ã|||Ã˜||||
+ÃÃ¶ù¾‰|ÏÑ|±<3äÞ¥/h||=a•wÔ&	òn¿W|||6±¥7||||Cb|†Øg82#Ã
+||Ã||||Ã|
+
+|Ã
+||
+||||Ã||
+:å®|•µìê‰îÃ||Ã˜ÃÃÃ|||||ÃQ|Ã|aÞë¬î)ÃC<`–ÓI/4ž:ˆú¸bÃu
+QMùÐÚòÃÃ·Ãü+”¢ÃÃ|Ã|||á6Óu ¾ó:õ˜)á, q—Ü7‡½h<Ù.I‹sX€9¡®n€^§ÃÁñI,IÙP?|ÃÈAŒ²aLô}ò?ó
+„y„ÖÃ||||¨°ÎÀ–œ5:C2Ã
+|||||QÃ||Ã|Ã
+
+||
+|Cênªô	I†|||ÃÃ|Q
+||ß˜|ÃJJ,þ2Ê |ÃQ|
+Ã|||Ã||@Ù?¦Ãdˆ
+Ã|ß|||||||»nÄnnnnnÄ™nïnnÄÄnnöØwJÅ}Å¨ïÃnn™nÄ™nnnn™™™ï™™n™™nÄ™ïnnn™5ín™™nnÄEnnÄn™npnnnÄnnpnnnï|ÞÄnnn™Ä™n™nnÄïÄnn™n™Änn™ï™nnnnnnnïnnnnÄ™™nnÄnnnn™nn™n™nnÄn™n™nnnnnnn™ïn™Ännn™n™n™™nnnÄnnÄn™nnÄ™nÄn™ñïnn™™nn™ï™ïnÄ™nEnnnnn™n™ïn™Ä™nnnnnnnnÄ™n™™nÄnnn™nnnÄ™nïnïnnn™nn™™nï™nïï™ÄnnnnnÄ™nE™nn™¡	Nnnnnnnnnn™n™™™™nïnnnn™Æ™nnnn™nn™™nnÄnnnnEn™™ïï™n™nnnp#[à³³FùQœ¸|w|/¬ê€¾|©p-$Q¡	N|Ã„D‹-Än™n™nnÄn™nn™™nï™Ennnn™™Äïn™nn›nnnnÄ™Än™n™ÄÄn™nn™nnnï™ïÄnnnn™™Ä™Epnnn™™Än™n™nnïnnÄ™nnïnï™nï™ÄÄnnn™nnïnnÄnnnnn™nÄn™nnnnnnnnnÄÄÄn»|Ï
+³±X¢|¡"h|ð^Ã|
+|||Š×‘|Ã||ïnÄ™™nïÄ™Än|„œ rR^ïÄnn™Ä™nnÄ™ÄnnnnnÄ™™™™nnnÄ™™nïnnnn™™n™Ännnn™™n™ïn™nïn™nnnn™n™™™n™™™n™nnÄ™Äï™Ä™nn™nÄÄ™nnÄ™n™nnn™™nïnn™EnÄn™Ä™nnÄ™™nEÄnÄn™nn™nnÄÄn™nn™nn™nn™n™ïn™™n™n™Ë˜nïn™™ïnÄn™™Äp™nn™™™nEÄÄnïnJ¦ ïnnÄnnnï™En™nn™Ännn™ïnnnnnÄnnn™npÄEnÄ™nn™Æn™nn™nnñnnnÄnÄ™nnnÄ™n™n™ÄÄ™nnnÄnn™n™nÄnnïnnn™™nn™nïn™n™nnnnn™n™n™ïEÄÄ™™nÄnnïÄ™™nnnnnnnn™ç%ˆ”ÿðCÆµ|nn™nï™n™nnnÄÄÄ™nnnïnn™nnn™nnnn™nnÄnÄnïÄ™™™nnï™™n™ïÄnnÄnnÄnn™n™nn™Än™™nn™nnnnnnnnn™nn™nnn™™n™›nnn™nnïnÄïn™nnn™ÄnEnï™™nnn™™nnnnÄnnnn™™nÄnnnn™Änn™™n™nn™™ÆnÄï™ÄE™ïnnnï™™ÄnnnnnÄÄnEnnn™n™nnïÄ™nÄ™™™nïnnnnÄnnÄnnnÄïnnnnEn™EnïïnÄÄï™nnn™™Änn™n™ÄÄnnn™nnÄn™nÄÄnEnn™nnÄnÄn™nnpïÄÄ™nn™™nnnïnïnÄn™nEnn™n™™nnpn™nnn™nÄnÄïïnnïnnnïEn™nnnnnnnnnnÄnÄ™nnnn™™nn™nn™™nnnnÄnn™n™nn™nnÄnnnnnïn™nnïnïnnnnn™nnÄnïÄnn™ÄZª³Ð|ðn™ÄnnÄnïnÄnïn™™nnn™nn™ÄïnÄ™™nnnnn™n™nn™nnn™ïÄ™n™™n™™nnÄnnGÄnC<`–ÓI™nnnn™™nnnn™nnnnnn™n™ï|Å óåzn™nnn™ïEn™nïÄE™nnn™n™™™nÄnnÄïÄ™nEpn™™™nïn™nÄï›™H±|||™™ïnn™™™nnn™nÃQÎº™nÄ™ÄnÄÄ™Ä™nn™nn™™ÄÄ™nnnn™pnÄEnnï™nÄÄ™™nnÄnn™nEÄnnÄnn™n™™Ä™n™n™ÄnÄÄnnnnnnn™ÄnnnÄbMµðd™™™ñnn¼IèÄnnÄï™nnnnnÄÄ™Änn™™nïnnÄnn™™nÄnÄÄnn™nïnnnÄnÄÄ™n™nn™™n™nn™™nïï™™nnÄ™™nn™nÄ™nnnn™Ännnn™ïnnnnnn™nnnnnÄÄïÄÄ™™Ä™ÄÄ™™nnÄnnnnnnnnn™™nnnnn™ÄnÄn™nnnnï™™nnnn™nnÄïn™Ännn™nnn™™™nnnn™nn™nnÄï™nÄn™ |||||˜p™nnÄnnïn™nnn™™nnïïnÄnnnnÄ™ïn™nn™™nnnÄÄ™nnnn™n™Ännnn™nnnnnnnn™™nÄEn™n™™™Än™nnÄnnnÄï™nnnnïn™n™™Än™nn™nÄnnnnïÄnÄn™ÄnÄnnnnïn™™n™™nn™nnnïï%ººðž³Ùk¤Ü|ÐnÄnnï™Ä™™nnn|Ã||Ãn™nnnn`•ãì9nnnnæ"Ü.W-\ 	||ïïnï™npÄn™ïnnn™Ännnïn™nÄ™™n™nÄnnnnnnnn™n™n™nÄnnnn™™ÄnnÄ­«Û•S¸n™ï™nnnnnÄïn™Än›nnÄñnn™™nn™nïnn™nïn™ïnnnnÄnn™™™nn™™™Änn™n™nnn™™nÄnnnn™nÄnn™nnn™™Äï™nnnE™™™n™n™nE™nnÆn™nÄnïn™™™nnn™Änn™nÄï›nnÄ|||Ã™nÄnn™n™nnnnnï™™nnn™Äïnïnn™nÄnnnnï™nnÄ™™™nïn™Änn™Ä™ï™n™n™™™nnnÄÄ™nnnnnnnï™Än™™nnÄpn™n™nÄ™ïnnn™ÄïnnÄ™nn™™n™™Ä™nnnÄnÄnnnnn™Änn™Ä™Ennnn›™nnÄnn™n™nÄnnn™ï™™™n™n™Ennïn™ïn™nnnnnÄ™nnïEnn™nÄnnÄ™™nn™™™nnn™ñnn™nïn™™™nnÄÄïnnn™Än™n™nnnnn™n™nnnnnïnÄ™nn™n™nÄnnÄÄ™nn™Ännnnn™n™™nnn™ÄnÄ™Ä™™nïïn™n™™ïnn›n™™nn™nn™nÄ™Ännp™Ännn™™™ï™Än™Æn™nnnnnnnïnÄÄÄn™nïÄ™nnnÄp™™nn™n™nÄn™n™™nnpnn™™™ï™n™™E™ïn™ï™n™n™Än™n™™EpïÄnnÄÄn™™nnnnnn™nÄnnn™Ä™Änn™n™nïn™n™nnnïÄï™™nÄnïnnnnn™nnn™n™nnnÄnn™nnïnn™nn™nn™™nï™Ä™nnñÄ›nnÄ™™nn™™nnÄ™n™nÄÃ
+||nnÄ™™n™n¢|ÞŠx™™™n™ÄnÄï™nnÄn™nn™nÄnnñnnn™nÄnïn™ïÄ™n™E™™nnïnnnnnnpÄÄïnnn™™Ennnnnn™n™™nn™™n™Ännï™n™ÄEn™n™nnn™nnpnnnnÄnnnÄn™™™™n™ïnïn™™nnnnÄ™n|ÃÃïnn™nïnnnnn™nnnïnnn™¨é#>[à³³Ã|³…nn™™pnnn™›nnnEnÄnnnpÄÄnnnnnÄ™nnÄ™Änïn™ÄnnnÄ™nnÄnnpnnnn™™nnE™™™™ïïnnÄnnnnÄnnn™Ä™™nÄ˜
+|––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– aÿPackage fhe DEFLATE compressed data format,Ù›šŒcribed in RFC 151. The gzip and zlib packages implement ac.–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––2b––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– &––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––ess to DEFLAT=-based –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––jiiiiiik–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––|¡–––––qçq,,q¢,qq,çqçq,qÓç¢qqqqq,qç™nï,q–––qç,¢çq,çqq¢qç,qqqqqqq¨ü–––––––¢,]]q,qq¢¢qqç]q–––––––Žqqqqq––––,qq¢qç,çq,qç,qçq,––––––––––çqq,]¢qqqqqq,qqq,¢]ç––––qç–––q,ç,,q,,ç,q¢ç,q¢q]q,¢–––q,]ç–––––––ç–––,,q,q¢––––q,™n™qç]qqqç¢q,¢qq,q,,,q,–––,q,¢]qq,qç––––qçqqq,––––––,q–––Šx™™–––qç,q]çq¢q,q–––qqqçqq]qqqqqq–––––––ÞÃ|Ã–––qqç––––––––––––qç,,q¢q,qqqqq¢q––––,,,q,¢q,,q¢qq,qqqqqçç,¢qqqqqç––––––,qqççqqqçqqq,,qqqç¢,qqq]qqq,q]qq,q,,ç,qçç–––,,,,q]qç–––qq¢q,,qqqç,qqqqq,–––qq,çq,qqqq–––––––––q¢––––]Ó,q,–––]q,qqqqqçq,çqq,q]çq,Ž,,qq¢––––qq–––]–––q,,çç¢–––,q]ççq,qç–––ç,,,qqq,,,q¢q,qq,qqçç,–––q]q,qqqqqqq–––qqqqqqqqq¢qqqq,qç,q––––q–––,qq,qqçq––––q,]q]¢qqq,¢çç¢ççqq,,,,qq–––qq,,q,¢,q¢ç–––¢qç,qq–––n™n,,¢ç,qq––––¢q–––,qq,qq,,,q,ççç,qç¢ç¢qqçq,,qqqqqq,ç,Óçqq,ç¢qç,ç,çqÓqqq–––Ä™n,ç––––ççqq–––ç–––qqqqçq,q,,¢]qq,qç],qçq,q,q,qqq,,,,q,,,qqçq,qqçqqq,qq,¢–––q–––––––,,qqq¢çq,qq¢,¢q,,qq]q,–––,,¢–––––––––q,q,––––q,,¢q™nn,nÄnq–––ç–––qqq]¢]––––,q,qqqqqqqqq¢Óqçq,ç––––,,,qqq––––qqqq,¢q¢–––¢,––––]¢,qq]çqq,q–––qq,,,q–––ç¢,q––––¢q–––Ó–––,–––qqq,q––––IÓçqqq,qq,qç,q,qq–––,çq,q™Änn,qqq,qq¢–––q––––––––––çç¢,ç,ç,¢qqqçqIq,qqqq–––¢–––,qq,,,,qq]q,™™–––,qqÓq–––qqq¢,,,,qq–––qqÓ,qq–––q,çqq,qq,,]ç,,q–––qq,,çq,çqqq–––,,–––qq]–––qqç,,]q,––––çqq|QØ––––,qqqq¢¢,,qqq,q,,,,qç,––––q,]],qq,çqçq,qq,,]–––q,–––q––––––––
+|_,Óqqq,ºðqqqq,q,çç,qç,],¢,,–––q¢],¢qqqçq,qq,¢2›qqq––––,,qqq––––çqçqç¢qqqq–––,,qqqq¢qq,,Ó,,Z¼‚çÓq,q¢qq,,qqIÓ,,,çq,,qq––––,,q–––qqq,¢qqqqq¢qqq,–––¢¢,qqqqqqq,çqç,ççqqq––––qq,qqqqq,çq,–––––q,qç,q–––,q¢q–––q––––qq–––ç,,qqq,––––q––––qqq,––––ç],,,çqq,qq––––qqq,q––––––––q,qq,qqç,q–––q–––q–––]–––,q,qççqçq,,q–––qqnnn,,qç,,–––çqqq]qqq,,,qq,,ç¢qqqqq,,çqçqqqqq–––,q,,–––––––q,qçqq–––qqç¢qçæ !qqqçqqç,q¢q–––ç],,,q¢,çqqqq,,,çŽ,qç|||çqçqçqqq,qqqq,çqqq¢ç,qq¢qç,qqçq–––¢qq,–––]¢q,–––qq¢,q¢qq¢]q¿,ç,,qnnÄ™qq,–––qqq,––––qq–––q¢q,q¢çqqqq,êq,qqqq,qqçq,,q,––––¢,,qÓ,,qq––––qç–––,¢–––,q,ç–––ççç]q–––qqç,q¢q,,¢¢,qqq¢,,çqqqq––––¢ç,qq¢––––n™n™–––çqçq,¢q,qq––––––,q,,q–––qqqq–––q–––çqqq,||
+
+çq–––,q,qçqqç,q,–––qÓq––,qqq,,qq,,qq,q–––¢q––––––qq,qqq,–––q,¢q–––q––––q,qqç–––,q¢q,q––––qq¢Içq–––––qpn™q–––q,qçqç¢qç,q,çq,çq––––,¢q––––––¢¢qq,,qqqç,q,ç,qç,q,,qç¢q¢qq––––qq,q¢qqqç–––,q,qç¢ç,–––q,qqqç,–––,q,qqç,q–––qq,¢qçq],q,–––]q,qç–––qq–––ç–––,,ç¢¢,qqnn™ççq,,qç,¢q,,],q,qq–––––qqq,q–––]qqÓqqçq,Óq]¢qqqŽqn™n,,,q]¢q,]çqqq,q,qç]––––ç,çqq,,¢,çqçq––––qçqð,zI¢,q––––,,IÙPqqçqqq,,qqq,¢,,,–––¢,q,],ç,––––,ççqçqqqç¢¢qqqn™,qçqçqq,qqqqqq¢,qqq,,,çç¢ç,q¢ççqqç,qç]qq––qqç¢ç,ç],qŽ,¢q,qçqç,––––qÓ¢çq–––q,qq,q,qq,]qq,qq]q,nnÄç]q,q¢¢,,,qq,q¢ç,,,q¢,––––,,]–––––––,qq––––qqqç––––––çq¢qqqqqçq,q,q–––––––––,q,]qqqqqq¢qqqqqçq,q,,qqqçqqq–––,ç¢,çq,qqç,qçq,,q,qqq,¢,qq,qqçqq¢–––ç,qqq,çç,qqq]–––qq,]q––––qçqqç,ç,,qqqqqqqç,q,,q,ç¢–––qq–––qqqq–––ç¢,q],çqçç––––––q,,qqq––––q,,çç,––––],q,,qq–––,çqŽq,,,q,,ç,qŽ,qqqç,q,Ž–––qqq¢q,q–––Içq™Ännqqqq,çq––––,ç,qq–––,]––––––¢q¢qqqçIqç,qqç¢]q–––ç,,]çqq¢¢qqq,,¢q™n™q–––––,,qçq™n¢|qqq,qq,,qŽçq]¢qqq,,––––qq],,,,qq,,,qqqq,–––,qqqq,––––qq,,qq¢q,nnÄç––––qq,q,q–––––––,]qq¢–––q––¢¢qq,,çqç,q,qqç,–––q––––––qç–––,,,nn™çq–––,qqqç¢¢––––––]çq––––qq¢,,,q]],,qçq,q¢qqqqqqÓ,qç––––––––q–––ç––––q,qqçqq,qqq,–––qçqçq–––qqq,q,qççÓ¢qqqç,qq–––çqq,]çççqqqqq,,qq,]qq–––q,q]qqq–––q,,ççq–––çq––––––q,ç,,ç–––q],ç¢¢ç––––ç,–––q¢q]–––ç,qqqqqqç,q,q,qqq,qq¢qqç–––––––çqqq–––––q,––––q––––,,–––,,–––¢q–––™™nqq¢,q,,¢q,¢ç™nnq––––qqq¢q,,–––¢Óq––––q¢],–––¢–––qq]q,qÙPqq,çqqq,q,q,çq–––––––,–––¢ç,q]¢,,¢–––qq,,,Óq™ïnÄ––––,q,,¢Ž]q],–––qq––––ç––––––––qqq,,çqŽq,¢,,Ó,q,¢,q,–––,,qç,çqq,¢qq,qq¢qqç,–––qqq,qqqçqq,]q¢¢çççq,q,q–––q,,qqqnnn,qqq¢qq,,–––¢,,,q,,,]¢qq–––q¢q³Ð|–––qç,qqq,q¢qq],qqqq–––––––––qqq,,q,,qqqqq–––¢qçqqçq¢,çqq¢q¢,q–––q,ç,q,]q]ç,,,,qq¢¢ç,qqqqq,qçqqq–q–qqq]q¢,qqç––––––q,çççqq,çç––––çqçqq,qç¢q–––qqq¢–––q]qqqÓ,,q,qç],,qq,ç¢q]q™nïnqçq]qqççqqq,,,]q––––,q,,qçqç,q,,Ó,¢çqçqqqq–––q,qq,ç,qqq]qqqqqqq–––¢qqq,q,qqç––––––––çqÓqç––––––qq,q,–––q]qç––––––q––––,,qçqçqq––––––––––,,qqqq,qqq,q,qqççqqq,çŽ óçqqq,––––q,––––ç,çqqqq–––]çqç¢,–––çqq,,¢Ó¢q]q,q,,q,Óqqqqqqqqqçqqç,q––––qqqqq¢–––ç,q]q–––q,,q¢qçq,–––¢q–––qqqqqçqq,çqqqqŽqq––––qqq,––––q,q–––q––––,,]qq–––]qç,––––qqçqç,qq–––çqqqq––––qqqç¢q,çç,q––––qqçq¢qŽçqçq¢––––qq–––ç]¢qŽ,q,,qq––––––––––––qçqç,q,çq––––––qqç–––qqq]ç,qqqqçq–––qqqç––––],q,,qq–––,,q,ççq,n™nq,,¢¢qçqqq–––qçqqç–––q¢nn™n,¢qqçqqqqqqq––––––––çqqqq,,qqqqqqqç––––––qq,q–––qçqq––––qq,qç,]¢,,qçç,,qqçq¢q,q––––q,qqqqqq––––¢q]q]–––ç–––q,¢,q––––,]q––––––,çq,,,––––qq¢qq]çqç]çqqqq,,çqq––––ç,,qç,qq,q,]qqqqç¢,qqqq,,qq,çq,çq¢––––qçqq,çqqqçq––––q,q,q,¢qqqç,,–––]çqq,q,ç¢qq,qqq,q,,q,qqq,,]qçq¢ç––––,qqqqqçqqq,q¢qç,qqÓ–––,,çq,çq–––çqq,ç,¢q,ççqqqç,,,,q–––q,qq,qçqÓ],qq],–––,]çqqq¢qqqqÓ,qqqqqqqq,,q,qq,q,nÄÄq,ç––––––qç,]q¢qq¢––––q,q,qqq,qq–––,qqqq]qqq–––¢qqqqq¢–––qqq,,,çq,q–––qçqq,qç,––––qqqqqqçqq,çqqqq,ç,qqq–––qq]qqq,,q,qqqq,,ç¢]çŽqqçq,¢qqqq––––qqq,q,¢q]qqççqç¢–––,–––çç,qq,qqqqq,qçq,ç,,q]¢,qq––––¢]–––qn™™,qq]qçq–––qqq,q¢–––,qq,çqçqqqq,¢,,qqqqq,,¢q,çqçqqq,¢q,,,¢,ç–––,q,Óçqqqq,qqçqq¢,––––––çqqçç,qqŽq––––––––qq,q,,q–––––––qçq¢]q,q,q,q,ççq]qqçqqq,qq],,q,–––––ç–––q¢,q,q–––q,,–––––––q,qqqqq–––,çq,,¢,qçqŽ,qç]qqçç,qç,,,qq,,q,,qç¢,q,q–––qqqqqqç–––––––,¢,qqçq,,qçq,qq–––ççqç,qç––––,qq,qq–––qq,qqqqq]––––––qq,,,q,q–––qqç––––qq,–––qq,qçq,,qq,q––––––––qq,q¢qq,çq,q–––q–––]qq,,qqq,q,,qqq¢qqqq–––çç],–––qqq––––qq––––––,çqqq,q,q,ç,,q¢ç¢qçqq––––––çq,q]ç,qçqç–––,,ççq,qÓq,,q,q,q]çq––––™nÄq¢qq––––ç,–––––––¢ççq,q,çqqçqqqqqçq,qqq¢qqq,ç,q,qçqqç],q––––––q––––,,––––ç,q,çqq,Óçç,qqqq,q,çq,q],,,qq,qqqqqqqçqq,qq,qqq¢,q¢]qq–––ç¢–––––qqqqqç–––,q,qqqqç,q,qq,]q,–––,,qq¢,¢q–––çç]qqqqqqçqçç¢¢qçqŽqqqq–––qŽ,q¢qqq–––¢qqq,çqqqqçqqçq¢çqq,qq,q––––––––qqqqq,–––,–––,qq¢q,,qç,q],,qç,,qqŽ]qçqq,q,q,q,,,qŽçqq,–––,qçqq,]çÓqq,,––––çq,––––ç–––¢,qq,qqqqq¢q]q,––––––––q]qq,qqqç,,qq–––––––qçq–––––ç,¢,,q,–––q,]çq––––,q,qç]qqqq,qçqqq¢,q–––––,,çq,,qq¢çqÓ¢––––,,,qqqq,,,,q,qççqqq]¢q,ç,],qqqq–––,qqqq]qqq,qqqç,q¢ç¢,,¢,q¢,q,qqqq]¢çq,qqq¢–––,,,,,qçqçqq¢–––––q,qççqq,]ç¢,qq––––––––qç,qqqqq––––,]çqq,¢çq––––q]qç,,–––,q–––––––––ç,,qq,q,qqIçqqq]qqq,qçq,qq,ç,ç]q]qqqqqçq]¢qqq,qqqçqq¢qçqçç–––],q,,qqqq],¢qçqq,q–––qq,çq,,,q,]qqqq,qqqç,q,çqçq,,––––qqqqqqqqqqqq]]çq––––qç,¢ç¢–––,,çq,,q¢q,],¢––,ç,qq]q–––çqq¢–––qq––––,qqÓ,çq,,ç,q,,q––––––qqç––––qÓç,,çqq,––––––––––],çqqçq¢–––,]–––q––––––çqqqqç–––q]ç–––q–––qçqqçq,ççqqq,¢qqq¢qq–q,,ç,¢,qç,qqç,,,q–––,,¢qqqq,,¢qq,,,q,,q,,q]–––––––q,¢q¢ç,q,q¢q,qç¢qqq–––qqq¢–––qqq–––qq¢,çç,qq,,qqq¢,Žq,,,,çqçqqçç,qq–––––––––qqqq,çqqq––––,qqq––––,çqqq],,qqq,¢¢q,çqçq–––qqqq–––––]qçq,,–––,,çq,,],qç¢]q,q–––ççqqqçq,,,qç]q–––qqç¢q–––çqq–––q¢,,q,q¢q]qçqçqq–––q,¢qqq,q,qç,qqq,,q¢qq–––q–––¢qq¢q,ç,]qçqqçqç¢,¢––––q]¢qqq,–––]–––––]çççq–––––––qç,qqçqq––––––––ç,¢¢,,q,,,,qq,q¢qç,,qqqq,qq––––––––––,,qq,,¢q¢,–]qqq,q]¢¢qqçq,qq,q¢q,qq]]q,qqqçqq–––qçq–––––––çççqq–––qqq,qq,q,¢q,ç]–––qqq,çq¢,qqqq,q¢qçç,ç,qqqq,¢,––––q––––q¢qqq––––çç,–––qq–––––q,qqqq,,qqqq,qqqqq,qq–––––qqqqqq,–––q,qççç]q¢çqçqq,çq¢¢,¢¢qq,,qç––––––Óqqq–––––––qqqq¢¢,q¢¢¢qq]ç–¢ç,¢qq–––çqqqçqq,,––––––––––q¢q,,qqq,qç–––qçq¢ççq,qqq,q–––ç–––çç,,,qq––––––ç,¢ç]q¢¢¢qq¢qç,ç¢––––qqqq¢q]––––qqqqççççqqqq,¢¢qqqçqI––––,qqq,qÓ]–––qçç,,,qq¢q,,qçq,çqçq–––––––qçq,q,,çq,ççç,çç,––––qIqçq¢ç¢q–––––––,qqq¢qq,¢,qq,q––,qq,qqçq]qq,¢ç,qq]¢––––,–––qqqq–––qqqq,qçqqç–––çqq–––qq¢çq–––,qqçq¢çç–––¢¢,q––––ç,,,qq,¢,,çqq,ç,,Ó,çq¢qq¢q¢ç,,,,q,q––––,qqqqqq,qq,qq¢––––––––çq,q,q–––,,qqq],Ó¢ç,¢qqqq––––q,qqqq––––q,,q,,q,,–––ç,qçqçqqq,q–––qq,]ç,¢q,qqqqq––––qq¿¢q–––––––çq–––qçq–,qqq¢,¢¿¢q,,q,––––¢,çqqqqqq,¢qqqq–––,q–––çç¢]qqqqç¢–––––––––q¢,qçq––––––––,,qq–––,qqqççqç––––qq–––qqqq]¢qqqç–––qqq,q–––––,qq¢qq–––––––qqqq¢q,q,q–––qqq––––qç,çqç–––qqqq,çqq¢q–––çqqqç,,,çqqq,,q,q¢–––çq––––––––ç––––¢q,qq–––qqqq¢çq,çç,,qçqq–––qqq,,––––––q–,qqççqqçqq–––qqqqqqI,,¢q,q¢q,qçqçqçq]¢qq,––––,qqqq,,]–––q,,qqq,q,qqçqqqqçq,qqqç,,,,qqqq,–––,–––qqq]qq,q–––,qqç¢ç–––q,q,]çqqqqq¢–––ççq,Óqqqq,ç,5,–––––––q,–––qqqq¢ç,qçqÓqqq–––q––q,q–––çç,ç,,qçq––––q,ç,qq,çqq,çqqqq,qç¢–––qç,q,q,Iq,qq––––q–––––––––––,¢q¢–––q,–––,––––––qq¢qqqqq,,,––––––q,qç,ç],,q,,qqq,,ç,qqq],,qqçqqçq¢¢qq,ç,qq,,q,qq,qq,qq,–––,¢,qq–q,qçç,––––,q,qqqqqç–––––q,,çqqçq,¢qqqç–––¢çq]çç––––,qq–––,–––qç,qçqq,q,q,qç,q,qq¢–––q¢qç–––––––,–––––––,q–––,––––q,qqq––––çq,q¢qqç––––––qq,,q,ççqçq–––qqq,,,ç¢q–––q¢ðq¢,qqqçqqqçqq,q–––qqq,qqŽq¢ççqqç,qqqç,q,qq,ç,¢q–––çq]q¿,qq]qÓq,qq,q,¢ç,çqqqqqqçqçç¢qqq],qqqq,,q,qçç,q,qq,q,q–––çq]¢qq,–––,,çqqq,q¢–––––q–––¢ç,q––––,çq–––q,,q–––,qq,qq––––qç,–––qq]–––––––q,qqçqq–––q,qqq,qqq¢qqqçqq]q]¢q¢¢q,ç,qq–––––qq–––]qq,ç,qqç,–––qqçç,,,],qqçç,–––q––––çqç]çq,q,,¢çq¢,qn™,qq,,qq,qçç,qq,,qq–––qqq,ç,,q–––q––––,–––ç,,q,,–––,,q––––,qq,qqq¢qqq¢q––––––qqqq¢,,q––––qq,–––qç––––qq¢q¢çq–––ç–––¢q,¢qqqqqqqqqq–––q,ç,––––q,qqq,q]¢¢]––––––––¢¢ç,q,,,Óçq,¢q,qqq,,q¢qqqqqqçç,¢qq,,]q,¢q¢,,,––––––q,ççq,qqçqq,––––,çq,qq,çq,,q–––,––––––––q,qçqÓ,qqq,q,q¢–––––––q,qçqq,qqqqqç¢qq,,qq–––qç¢]qqq,qqqŽqq,,qqçq,,q,]–––q,,,qççq–––q–––q,¢qçq,q,ç,,¢qçq¢¢qqç–––––––Ó,––––qqq]qq–––q,–––qqçq–––,–––,¢q,,q,,,çqq,,,,,qqq––––qççq,qqqçq,       qqqŽ,qqq–––qqq¢,Ž–––––,çç,,]çq,qçq¢qç,¢ççqç,¢–––q,qqqq,qq,¢q––––ç,qççq––––q––––¢q,qç,ç,,qq]q–––,,qq,qqqçqqq–q,qqqç,––––qq,–––qqçq]qqqqqqqqqq–––,q,çqq]q,qqq,ç,qq–––,,–––q,ç,q,qq,q¢qç,ç–––qÓqç,çq,¢q,qqqç,,qq,¢qqqqqq–––,,qqqç,q,qqç,¢çqqçq–––qqq–––¢çq,,,q,–––ç,qq––––,,q,q,q,q,q–––––¢]qq],q]Óq––––,q¢qq,,qq,¢¢qç,q,qq¢qqq–––qq–––qqq],çq,qq¢çq,¢––––––q],qqqq,,,ç,––––ç,,qç,,¢]qqç–––,,qq,,––––,¢¢–––q,çqqqqqq,,,]çq,qqq,çq––––¢qq,çqq,,¢ç,qqq,qqq,,q–––¢qq–––q,,ç,qçqçqq,q––––ç,qqq,,¢q,,qq,,q,Óqqq,¢ç,q––––––,çq,¢I–––qç,qqçqÓ––––––––Žq,q––––qqq,qçqqqç–––qq,çq–––qq,çqqq,,q]çq,,¢––––––,qqq–––qqçq,qq¢,q,,ç,,qçq,çq–––q¢qq,qqqq,qç,––––çqq––––qIqç]çqqqççqq¢––––q¢–––q,qqçqqqq,––––––––,q¢¢,–––q,q¢qqqç,,q,¢]ç––––––,,q],,q¢q,q,,çq,qç],q,q¢,¢q¢ç¢,ç–––,ç,ç–––qq,],¢çqq¢–––¢,q–––qçqqç¢ç–––ç,,,qqq,qqqq¢,,q,q,––––––ç–––ç,,,¢qq¢qÓ––––q–––qq¢q,,Óqqqq,ç––––qçqqqqqq,qç¢–––––––q–––,qqqç,,qq,q,–––ç––––file f–,––––,qqq––––q,qq,ç,qçq,qêqq,]qqçqq––––¢–]çq,¢,qq,qqqq,,,¢,–––ç,ç,çqqqqq––––q––,,––––––––,–––,çq,q,–qqqqq]qqçq,q,qqqqqqq,,¢q––––qqqçq–––qq,ç]ç]q¢q,,qqq–––ç–––qçq,,]q]¢qq–––çqq,ç,–––,,,,qqqq],]¢qq,¢,q,¢q¢––––––¢,–––qqq,q,,¢,q,qçç,¢q,qq,çq,q–––çqq¢qq¢,qç,çq,,qçqq,],,qq,]qq¢q––––¢q,qqqqq,¢,q–––––,,çqq,,qqç¢q–––,qq]–––qq,,,Iqçq,ç––––çqq]q,qqq––––qqqq,,q–––qç,,q,qqç¢qqqq,q–––qçqq,–––,qçŽqqq¢,ç,qqq¢qqÓ,–––q,,,,çq¢¢q,¢çqq––––q,q]]qççÓÓ––––qq,qqqqq,qqq,–––q–––,,çq,q¢,q¢q,qççq,Ó¢q,,,qqqç,çq––––¢,q¢qqq,–––––q]ç]]–––,,qqqq,qq,qqq,q–––qq,,,qç,¢,çç]¢q]ÓqqçÓ,qqq,çqq,]–––qqq,qqq,ççq,],q,q–––q––––¢qq–––qqqç,,––––q,qqqçqç¢q,–––,qqç]çç,q––––ç,¢çç––––¢q¢,q–––qqq,qqqq––––qqqqçqçqqqq,,,––––qq,q,,çq¢ç,q,––––q,q–––q,ç,–––––––––––¢çÓ,–––––––,qç]––––––,,q–––q–––––––,çqqqçqçq,çqq,¢¢qq¢ç–––Ó,,ç–––––––––¢ðç,],––––––––qq–––––,qq,¢qq–qqq,qq¢qq,¢qçqç–––q––––,qq,,qqqqq,–––––––qÓqq,çç–––––qçq,çqq,,q,qqq––––qq–––qq,¢,,––––q–––,¢q,qqqq,,q,¢–––,ç–––q–––¢q–––qqqq,¢–––ç,qq¢qqq––––––q,qç]¢¢,qq–––qq¢q,q–––¢¢q¢¢ç,qIq¢çqqqçç,,q¢–––––––q,q,,q––––¢–––çqq¢,çqqq,–––q––––––––,––––¢q,qqq–––,çqqqq–––ç,qqq––––q,q,,––]q¢qqqqqçqqqq]qq,qq¢qqç]––––––qq–––çq––––q,,ç¢ç,–––qq]q,ç–––q¢,qq¢,qqqçÓqq,qqççq,,,ç––¢qqqqqqqqq,,q–––q]q],ç,,,qqqqq,qqqçqççq,¢qçqç,,–––,qq¢,q–––––––qqq¢q¢qqqqq,qqq,q,q,,ççqqç]qqq–––qq–––,çq–––qqq,q,q,q,,qq,–,çq,,–––,ç,,q¢q,qçqçç¢,ç¢,,,qç,¢]ç,qqIçqq¢qq,,q––––ç,q,qqçqqqqç,qq–––çç]ç],q–,qÓ],],,,qçqqqç–––qqq,qqq,,–––qçqqçI,q],,q,qç,qq,,,q]q]qqqqqqqqqqq,çq––––çq,¢,q–––qqqq,çq,q–––,ççqçq,çq––qqqqq¢¢–––q––––––––q,q,çqqqçqqq,qqq¢,¿qqq,,qq––––––––––qqçÓÓ––––qq,qq,qç––––qq,]ç,qqq,q,],q¢,qqq,Žq,,q,,qqqçç,q,ççççqq]qq,,q,,q–––q¢,qqqq¢qqq,,q–––çqq,¢ç,qçq,çqq––––qqç¢qqq]q,qqqç–––ç––––ç,,,–––,qçqqç–––,,,]–qçqq,,,¢çççq,çq––––,–––¢qqqq,,ç,,,]çqqq–––––qq–––,ç]],,q,––––q,¢,–––,q,qçqqq,qq,qqn™çqq,,qq¢,q,–––qq,,q––––,––––ç,ç,¢qç]–,q,,,ç,¢,qq,ç,Žqq,,ç,qç]Iqq,qçqq¢,,qq]q,,]qqq,ç,,q]q––––––––,¢¢¢,¢,qqqç,qç,qç––––––––qqqç¢qq–––ç,,q–––qqÓ,qqq,,ç,qq––––qqq,–––qqq,,q,,qqq––––,qççqqqqq¢–––––––––––q¢q––––,q,ççqq]q,,çq,çq,,ç,çç,Ó,qq––––qq–––q,qq¢,,qq,¢qq––––qqq¢qqqqq–––ç,,,qç,qqqq,qqqçç,q,qqçqq,çq–––––ç––––¢––––––]––q¢¢q]qq–––¢,]qq,qq––––,qq,qqqqç,çq,qq,q,,,qq,qqqq,q,q]q]¢q,,qqq,,qqqqqq–––q––––,,q¢,––––,qqqçqq,,qqqqq¢ç,qqqq¢,––––qq¢q¢qq–––çqq,qq¢ç,qqççqqqçç,,q,çç]q–q–çqqç¢qqq,qçqq–––,,q,¢,¢q,¢qq]qqqqç,qq¢,qçq,Óqqqq,q,qqqq––––––––ççqq,,¢––qqç,,qqqq–––¢qqçqê,–––––––––––––,,qç,Ó,––––q,qqqq,qqq,qŽ]qçqqq–––––––q–––––––––qqqqqç,,qqq,qqŽq–––,,–––q,qqqçq,]–––q¢q]qqç,çq¢qq–––qqqq,q,Ž,¢qq,,¢qqqqqq,çqqqqqqqqq]q––––çq–––q–––¢]ççqqq,qqqq,q,––––qq,qq–––¢qqq¢çq,,qqçq,qq,qq,q–––q,çqqq¢ç,]Óq¢,qqq,qq,qqq,]qqqq¢qçqç],,q,–––qqçqqq–––çqqq,,q–––¢q––––ç,q,ŽÓqqq,qqqqq¢qçqçq¢,qqq,qqççqqç,q,–––,,q––––q¢–––q––––,qŽ,–,qq,––––¢qq–––qqq,qq,,¢qç,qç,¢qqq,çqq¢qqqqç,q]qq,qqqçqç,qçç¢,qqçq,qqqq–––––q,qqqqqq],,q––––,qq––––]Óq,]qqqç––––,q,ç,,qq–––q–––,,qqqqq–––,qç,çqçç,ç––––q¢ççç,,çqq,q––––q,–––ç¢q¢qq,qç¢,,,qqq–––––––,ç¢qqqq¢,qqq,qq,qqçq,,–––––qq––––qq,qq¢,çq,––––,q,,¢–––¢qqq]––––çqqççqq–––q],,––––]qq,qq¢ð––––qq,q,ççç,çç]q–––qç,qIçqqq,çqq,–––qq,qqqqqq]qq¢¢,qqçq]qç,q¢q,ç,qq–––ç––––q,q,,qç,,]qq,–––,q¢,Ž––––qqç,,qqç,qq,çq––––––çq,q,q,q,q––––––––,q,,––––qq–––q,qI¢qq,ç,––qq––––q¢]ççq,q¢ç,çqqqq]qq,,qçq,ç,,ç–––çç,,qqÓ–––qqqq¢qqqqqq¢–––¢–––qqçqq,qq]¢q]¢qqqçqçqÓqçç,–––q,q,¢qç,,qq¢,–––––––qq,q],qqqqqq,qq,¢,,qqqç––––¢çqqqqç,qç¢q––––ç,,qqqqqq,qqçq–––,,qqqqqqq,–––qqq–––q,–––q––q,q,–––q,qq]–––ç,qqqqqq,qçqqq,,çqŽq–––q]qç–––Ž¢]qqqq––––––––qqq,,,,–––––q¢q,,qq,çq–––q¢Ž],qqqq––––çq,çqçq¢qqq–––,qqqqq¢qqq,]qq,qqqq¢ç,qqq–qq,çq]qqq,qçqqq,,qçqçÓqçqqq–q,qçç–––qqç,çq¢qqqq––––––¢qç,qqqq,,¢q,,,,q¢qqqq,q––––––,q–––––,qqq,çqq,,q,q¢,çq]qqqç,––––¢,q,qqq,çq,,,¢çq¢,qqqç,q,¢,q,qç–––çççqqq,,q,q,q]¢,,qqq,ç,q,–––––]––––––––,¢q–––q–––¢qqq,q–––qq,,,qq]qq,,q,ççq–––çq,––––,qq¢Iqq¢,qqq,]qqqq–––,,ç–––––––qq,,q,qq¢q¢,qq––––qqç,çqq,q,,q,,,çq,–––q,qqçqqç,q,¢qŽ¢,ç,,qqq]qqçqqçqq]ç]–q,,,q,qq,qq]çç,,q,qqqqq¢çqq,,,––––,,qq¢,qqq,qq]–––,qqqqqçqq,çqqqqq,,–––q¢çqqçqqq,¢q–––,qq¢–––qqçqqq,,ç,qqqqÓqçq,qqqççqçqqŽq¢Ž,,,qq,––––qq,qq¢¢q]¢qqqqqqq,,qqqq,q,¢qçq,,qqq–––çq¢q,¢,qqq¢qq¢qç,qqç–––çÓqç,–––çq–––,q,çq,,,,––––,qqqq¢]çqqŽ,qqçŽq–––qqqqqçç,qq]çqç¢q,qq––––qqqq–––qq,,Iq,q¢,,]qqq,q,qÓq,qq––––,qçqqqqÓ,,q,qç,ççç,ç–––çç,qççq¢q,,,¢qqq]ççqqçq,,qÓqçq,,q,¢q,qq,q–––q,,¢ç¢,qqq–––qq¢q,–––––––qqçqç,q,Óqq,,,q,ç,qq,,,qq–––qqq,,qq,q¢ç¢q]¢qqq,¢ç¢qqçqqç,,,,,q,qq,,ç,q,,q––––,¢I,¢––––qqq¢–––––––,q,q,qqç–––q¢qqq],qqqq,q,qq–––qq,,q,Žq,qq¢q¢¢çq,]q¢,qq¢q,,qqq,––––––––Óq,q––––,q,qq,–––qqqçqq¢q–––qqqqq,qqqçq],,q]q–––,qçqqq,qqq,,q–––qq,çqç,qqqqqqq,,–––¢,qq,,ç–––q––––,,¢–––qq––––q,q––––q,¢Óq,q]–––ç–––,qqqqq,––––––,qqq¢¢––,,q,qqq,,qqqqqq,,q,,–––––––¢,¢qqqq,,–––¢,ç,––––q–––,,,–––,qqç,––qqç–––ç¢–––qq,]q¢qÓqqqq,q]çqqçqqqqqqççqq]q––––q,,q¢,qqçq¢qçqq¢,,,ç,çq¢qqqç,q¢çç¢]çqçq,ç,,ç,q,qqq,çqçq–––––––q––––q–––,q–]––––çq,q¢q]q,,çqqqç,––––––––––qq,,qqÓ,q,qqqqqqqq,qÓçqqqqççqç¢¢,qç¢,,,¢qqqq,,qq,,,¢,,q–––qqqç,,]q,qqq,qqqçqq,qç–––qqqqqq–––ççq––––––,qqççq,,q¢q,ç,¢q––––––q,,,–––,,–––]çqqqq¢qqçqç,qqq,ç,qq¢,,qqqqqq¢qqqq¢,q–––,,ç,,––––,,–––q,qç,qq–––,¢q,qqq,qçq––––ç¢––––¢qqç¢,,qç,¢,,,,ç,–––¢,çq,qçq]–––çqq,¢qqqqqŽq5,,,q–q,qq,,–qq,],q,–––ç,Ó,,çç,q¢¢¢çqqq¢qqq,qÓq¢qqç,––––––çq,,Ó,,qq¢,––q,,q,q––––,q–––,,qqçq¢q,–––qqqqçqç––––,q–––,çq–––ççqq,q¢qqq–––¢,ç,––––ççqq,qç,,q,]q,qç–––çq,q,qq–––ç],q––––qç],–––,çqq–––qq,qq,ç]ç,,¢,,¢,¢q,¢q––qç,–––––,––––qçqq,–––çç––––––––––],q––––,qq,qqq–––––––qçq¢qq––––,,]qqqçqqqq],ç,qq,ç,–––ç],ç,ç,çqqqqqçqq,qç,,çqqqqqç]çq–––,q––––,]qqqqqqq],qq,–––q¢,,çq¢q,qq,qqçqqq,qççq¢q,qçÓççqçqqqqqqq––––q,–––––ç,qqqq,–––––q–––¢––¢qqqq,qqqq]ç,q,çqq,qqqqqqqçqq,––––––,]çq,çqqq,,q,,q,qqçqq,]qqq]I,––––qqççqqq––––qqqqqqq,qqçççqqqqç,çqqqq,¢çq,,––]qqqqqqqÓ,,q¢q,qqqçqq,¢qq,qqqŽq–––,¢q,,,qç¢çqç––––qqq¢,],q,qqqççç,,qq,–––,ç,,q¢qq,q–––q,,qqqq–––,çç,qqq,q,¢ç¢çq]qIqqççqqçç,qç,]]q,qçq––––,qq,çç–––qq,q]q¢q,,–––––––––––––––q,qq,,]q–––qqç¢––––––qqq,ç,]ç,–––qçqq,ç,q]çqqq,çq¢q,Ó,qç,,–––q¢q,qq,–––,qçq–––q,qçq¢,,çq,qçqqqq,,çqqqqçqq,ç,,,qq––––––q,–––Óq,Ó,qq––––––q,qq,qq––qÓ,,q,,qç,,qq,¢,¢q,¢q,¢qq¢q,Iqqqq¢q¢¢,q¢–––––q,qqqqq,],,–––,Óqqq,q,çqqq,¢q,,,qq–––,,––––qççqI¢,q–––qqq,],,qqq]qqqqç–qqq,qqççqç,ç,qqçqq,,qç–––,q,,qq,qqçqçq,¢–––,,qç,qqq,–––––çqqq¢,qçq––––,q,qqçq,qq–––qqqq¢qçqqq–––––––q,,––,,¢,q––––ç,q¢¢,qç–––çq¢––,–––qqqq,qq––––––––qq]qq¢qçqqqqqç¢q,q,,]q¢q,qqqÓ––––,q,¢qq,ççq¢çq,,qqqç¢,q––––,,qqq,qqqçŽ,]qqq,çç]ç,qIÓ,,qqq,q¢q,qçqqq,çqqq]q,–––,qç],,Ž,q,q,çqççq,qqç–––q,qçqqqç,¢,]qqqqçq,qçq,q,qq]q,,ç,ç––––qq,qqççq,q,qçqqqq,,ç,qq,qqq––––,,q,qç––q,¢q¢¢q]––––q,qq,qqçqç,q]qqqçqqqqçqqq,,,,,–––q––––––qqq–––qqçqqççq,¢–––¢qqç¢ç––––––,qqç,çqqqç,–––––––––¢q,q,¢q,ç,qqq,,çq¢,],qq,qq¢qqqç,ç––––q,¢qqq,qqqçq–,q¢,qq,çqqq¢–––¢,qç,,qq,qqç,qq–––,,q,ç,çq,,ç,qqq––––,,¢qqq–––q,q,çqççqç,qqq¢–––qç¢çççq¢,qqq,¢q]ççq,ç¢––––,¢qq,ç–––qqçqç¢,qqŽqq,,¢¢,qq,––––q¢q,q,qq,,¢q,–,qq¢,¢¢]––––––,qq,q¢–––çq,q]q¢qqq,q]çq¢–––¢çqqqÓðçq,,,q],qq,q,q]qçqqq¢qq,q¢–––,q,qqq,,q,q–––q,qç¢ç,qq––––],q–qq,ç,qq¢–––q,q,,,qqqqqqççççq¢qç–––¢Óq,qq¢,qqqqççqq––qqqq–,çq,q–––çqŽq,qqq]qq¢,qq,,qqç,qqçç¢çq]¢q,,,q¢,qqq––––,q––q–qqç,],ç¢qqq,çq––,q,qqqqçqq––––]qqqçqqqq]––q]ç,qqçç¢––¢qqqqqq,q,qç,qq,qqçq–––qç]¢¢q],,q–çq–çq¢qŽqqq,–––¢qÓqqq,q],qqçqqq,,,,qqçqqç,çq,qq,,ççq,qqq,¢,¢––––,,–––,qq,qq,,,qq,q,¿–––qq–––––¢çqÓ,––qqçqqçqq¢qqq¢¢,,,qqq,,qçqqqqqÓqçq]q––––qç,q–––qÓq,¢,]qqq,qqqq,çÓq,qq¢ç––––çq]q,q,qqqqqçq,,q––––qqqqçqq,qqqqçq,¢qq¢qqq,qç¢qq,qq,,,q¢,q,,ç¢qq]––––q,,,q],]¢çqqqqçç¢ç,q,çqqqq,¢qqç,q,qçqçq,qq,q,qqq]çqq,,,]çqç,q,qqçqçq–––,,qqqqç–––––––––––––––,q,qççqq,]¢q–¢qqqqq,çqçqÓqq,q,,qÓ,qqq,],qqq¢qqqqqq¢,¢ç,çq,qŽ,,qq–––]qq,,,qçq,,qqqç,]qÓç,q,,]qqq,qçqqq––çq,qç,q,,qqqq,çqI––––qq¢çqqqçq]qqç––qçqçç,,,q,,çq,,,,qq––––qqqq,qq,qqqqq,qq,ç–qqç,–––qqçq,–––qq,qqqqçq,¢qqqqq,qq–qq,,qq,Žqç,qqqqç],qq––––qq–––qçqqççqq¢ç,çqqqqqqq,],,q––––qqq,qç–ÿ––qçq,ç––––q,,¢ç,q]¢qq,,,,,,q––––––––,qqq¢,qqç,ççç¢–––qqçqqqq,]q]çç–––¢––––q,qqqqq,qqqçqq,,q,qqqqq]çqq,çç,–––q,,ç,,qqqqç¢ç]çqqç]qç¢qqqqq,,,,,q,ç]–––¢,ç,,q¢qq¢]–––q,,qqç,]–––qqq¢,q–––qççq––¢ç,–q,q––––çq,q,,qqqqqq,,qq]¢qçqç¢¢qq,qq,,q,q¢q––––q,q–––q,Óqç,qqqq,q,–––qq,q¢q,q,qq,qqç,qqÓqq,q,q––––,q¢q¢q,qqqq–çq––––,qç,,qq,,¢qççqq,¢qqççq––q–qqqq,qqçq]qq¢ç¢,¢qq,qq],qçqçqçq,,q,,q,qqqŽçq,¢¢çç–––qç¢q,q–––––––¢q]–––q,ç,,q,,,¢,q,qqqqq–––q,,qÓ,,],,,qqq,,qqÓ,¢qqqŽç,qqçq,qq,,,q–,q,–––––qqqq,çq]qIqq,q,]qqç¢¢,qq,]qq,,,,qç–––Žq,qq,q–––qqçqqç¢¢¢qqqqqq––––,qq,,,qqqq¢¢q,çq,qç¢–––q,¢,,qq,qq,,qq–––––––qçq]çq,q–––,qç,çq¢–––––çç,],çq,–––––qçç,qqqq–––,çqqqq,qqðq¢,,,,,q––––qqq––––],q,q–––qq,qq–––,–––Žq¢çqqqqqqq–––ç¢,q,q,¢,¢qqq––––––,ç],qqqq–––––––q,,qçç–––––Iççç,qqq,,Ž,qq,¢qqqqqq,,qçqq,–––¢q¢]çqçqçq,çqq,,––qçq,qq,çqq–––,]qç,¢,,q,–––qq¢q,,q–––––ç,qqq¢,qqÓ¢ç,q,,qqçq,,q,qqç,,qqqqqçqqqqçq¢qqqçq,q,qqçqŽ]qqq,¢],¢qq,qçç¢]¢qqq¢,¢,¢–––]qqqqqqçqqqqq,¢qçqq–––qq––––çq]qqqqq,,,çq,–––çqq,,ç],,qç,ç,qqqq,q,,qqqIqqq,–q]qqçqq,–––qqq,–––q¢qqqçqqqç–––––––––q,çqçq,,–––q,qq,ç–––q]¢––––qq,qçqqçç–––,,çqq,–––,,,,],q,qçqçq–çq–qç,qq,qç–––––çq,çqq,qç,––––qqq¢,q,qçqq],qçç]––––qqqqçqq,q,qç,qç¢qq¢q,çÓqqqqqq,çqçq––––çÓ,,qqçq,,ç,–––q¢ç¢çq,,],q,,I,––––çqq,,qq–––q,qqqq,q,ç,qqqq¢,qqq,qçqq,q,q,qqŽqçqç,q–––qqqqçq¢,qq,–––¢q,q¢,qç–––,]qqqqqq,qqç,q,qçq,–––q––––,q]¢q,qq,,Žqq,q–––¢ç,q–––qçqqqqq,q–––,,,qqq––––q¢ç,q––––qq,ç¢qç¢qq¢Ž]qqçqq,,,,,ç–––qq,ççqq¢qçq,qqçqq,,qqqq,¢,––––,qqq–qqqqq––––qqqq,ç,,çqqqq,––––qqç,qq,,q,]qqqq,,¢q¢]qqç],qqqqç,q,çq,,,çqç,Óqqq––––––çq,q,q,,qqç––––,–––q,,qqqq,q,q¢q,,qq,q,çqq,qq,––––q,¢,,ç––––ç,qqq–––,qq,qq–––,,,q¢q,Ž,q¢çç]––––q¢çqqqqqq¢çqqçç,,,q¢qqqqqqç,,qqqqq,qqçqŽç,qçqç,qqqq,qqÓ,q,q,,q,qq,çqq¢,qqqq,ç,––––––––––Ž,¢qq,çqqqqq,qq¢qçqqqçq,q,¢q–––qqq,qçq,qqqq,çqçqqçqqçqq–––qqq,q¢qq––qçÓç,ç,¢,çqq¢Ž,,ç,qq,]qqqqç––––çq–––,qqç,,q]qq,,–––q,––––,çqq,]qçqq,q–––,çq–––––––ç,q,q¢qqqqqq¢qq¢ç,qç,,q],çq],çqçq––––q]q,,,]¢qq,q]]qqqqŽçqqqqqç¢q––––q––––q,qq]q,ççqç–––]]Ž–––q–––q,ç,,q]q¢ç––––––––––qqqÓ,qç–––qqqq,–––q,qç––––––qq,,¢qqqqq,ç,qqq,nnqqqç,¢qqçq–––––qçq¿¢qçç–––––q]ççqqqç],qqq]ç–––q,q,–––]qç,q],qç–––––––,,qqqqqqq,qq¢q¢çqqq,–––––qqqqqqçqqq,–––,q,ç,qç¢qqq,,z,q¢ç,–––––––qq,¢qq¢qq,çŽqqqqçqq,qÓqqqq,qçqq]q],,qççqqq–––––––q––––––¢qç,qq,,ç¢q,q,çqqçq––ç,¢¢qç––q,qq,¢q–qqçq]¢qq,,¢q,¢qqq,,¢qq]¢ç,qq,,q,,çqç,q¢,]]qqçq,çqq,qq,q,çç]¢]qqçqçq,çqqqqqq,,ç,,qqq,qçqq,,qq¢qq,,––––––¢,qq,,qç,qqqç,q,,,,qqç]ç,qqqq¢qqç–––––––,q,qç,q,,qqqqqqqçq]–––––qqq–––,çq,,,,q]qq,qçqç¢qq–––qqq,q,¢qq–––,qqq––––çqçq,q,ç,q¢qqqçqqqq],qq,çq–––––––q,qqqqq,ç]ç,q¢–––q¢q,q,,qçq,qq,q,qqççççq,qqqqÓç,,–––q]qqqqqqÓ–––qÓ,qqqqqq,qqq]q,qq,,,qç¢]q,qçqq,q,qqÓqç¢çq,I¢q,q,q,,qqçÓç¢çqq–––,ç––––,çqçq¢çqq¢––q,q–––––––,––––qqç¢ç,,,ç,,,,qqq¢,qqqqq,,Iq,qqq,q–––q,],çq,–––qqqçŽç,q,]q,qqçq–––qqqqqq,–qqqq,,qq––––qçqçq]çqqqqçqççqq]¢q,çç¢qq,çq,q––––¢,,ç,–––,qq,ç,,q,,,ç¢,,],–––,q¢q–––çq,q¢]qqq,qq––––,qç]qqçqq,ç]q¢q,,qq,qq,ç,q¢q–––,q,çq––––––q]qÓ,Óq,–––,qqq–––qq–––çqqqçqq]q¢¢,q,çqq––––q,,qq,,ç¢qqq,ç,––¢,––––ç,,q––,,,qç,,çç,qq¢,qq,q,q,,¢q,–qç,çqç,q–––q,Žq–––––q,qq––––––qq¢¢çq¢,qçç¢çq,qqç,,ç]qqqq,¢¢qqqçqqq,q–––––¢q]çq,¢ç,çqÓçq,çq–––¢ç]q–––qq,çq,,çq–––¢qq,qçqq,ç],q–––––qq,qqç––––q––¢¢,,–––––çq,qq¢ç]q]q,–––qq––––qqqq,q,–––qqq,qçq,,q¢qqq¢Óqqqqq¢qç,q,qççq¢qq]¢–––,qçq,çqç–––,qqqq,ç,¢q,qqq,qqç,qqqqqq,,qq¢qq,qqq,qçqççq],–––ç,q]ç–––q–––––q,]çqqqqqçq–––––––qqq,Óçqqççq–––––––,ç,––––,ç,q,q,––––,––¢ç,qÓçqq,çq,qqç,q,,qqq,–––––q¢Óqçqqç,ç],q]qqqqqqqqç,–––qq–––––––Ó––qq,,q–––qqqq,qq,q,q,,]q],qq,,¢ççç–––qqçŽormats,q–––qq,q––––¢,qçqqçq–¢,–––]¢qç¢çqqq–––çq–––qqqqqq],qçqq,]ç,qq,q,çq,q,q,qq¢qq¢,]q––––,,çqq–––––¢qq¢,ç,¢q,––––,¢¢,qçq,q–––,qqq––––q,qq,,qqqç,qq–––,ç,qqç––––,qççqq,ç,qçq]–––q,],q¢çqçç¢q,q,,,q,q¢],çq,ç]qçqqçq,,,]qqq–––––ç–––––––––––––qq,,,q–––qqqqçÓ,¢qq,,,qq¢çç],qqqq¢,,,¢ççq¢,]q–––çqqçqq,qqqq],qq–––––,,qq,–––qqqqqqq¢,q,,–––,qqq,ç,Ž,q,çç,¢¢çqqqqqç,çq–––qq,–––q],,q–––,,qqçq,,,q,q,––––––q,,,––––,q],,––––,,qqq¢çqq,qq¢¢çq,¢qq¢qçç–––qqçç¢,çq¢¢,qqçq–––qqç,qÓ,q]q,qçqqqqçq,qç,,¢,çqç¢,ççqq¢ç,qq––––qqqq,qqçq––––]q¢çqq¢qqq,q,q,,çç,q–––q,,qqq,qqqçqq–¢ç,qqçqqq,q–––qqqç¢,ç,,çqç–––,¢,,¢,q,]¢–––çç,qqçq]qqqqç,qq,qq]q,,q,,qq¢q]qq,çqqq]qq,,q–––q¢qq,–––]q,qq,qqq¢¢qçqqqq,,,qqqqqq,,––––––qqç––––¢,,,qq––qq,,q,ç,,––––––––çq,qqqqqq]q,qççç¢,–––,]q,¢,–––,qqç,q,qçqq¢qç,qçqç,qq,,q,–––],q]q,qqqqqq,,q,qqqç,ç,]çqqq,,,,qqq,,,–––––,qq,qqç,çq¢ç,q¢qç,,qçç]çqq,q–––,q,qq,],qqç,q,¢–––çqqqqçq,,çq––––qqçç¢qçqqqqqqç¢qçqqqçqqq–––,çq,qçq]çqçÓqq–––––,]qqçqqçq]çq,qç¢q,qç,qçq,–––,qq––––––––¢Óqççç,q,,qq––q,q,,qq,qqç,qqq,qqqq,q,qqq––––––––q,q,–––q,q¢¢qççqç,qqqqqqq––––qq,qqqçqq]q,,,qq,q],–––]qq,qçqq¢çqqqqqq–––ç,qqçq,,qq,qqqqqÓç,–,q¢q¢¢¢qq,q,,–––––––q––,,qqqq,,,q,q,,ç,qçq,,¢çç,¢]qqçq,¢,q,qç,–––ç–çqq¢qq,,qqçqqqqq–––,q,qqçq–––¢q¢,qqqqq,qqq¢qç]–––qqçqqqç]q,q,çç–––q,qq,qçq,q¢çq¢çq,qq,ç,qq,qqqqqq,q,qqq–––q,qçq,qqç,,q¢çq,,q––––,,qqqqq¢Ó¢,q¢¢qqqq,ç¢qqqq,qqqq,qq––––¢q¢q],q,qqqq¢q¢¢ç,qqq,q,qqqqq,q,,qq,–––––¢,q–––qq–––––çqq,qq¢,,,qqq¢q,,–––¢ç]ç–––¢,ç,q,qqqqqqqq,,çq,ç]q,Žç,¢qq,,,qqq,qqq]qq],ç,q–––q,,qqqçq,qqqqçqq–––qqq,¢çq,¢qqq,çq,Óq,–––q,qq¢çqqqq,q¢,,qqq,q,q,,––––––––––q,qq¢,çq,q¢qç,qçq¢ç––––qqqq,qq,q,q¢q,qq,q,,q–––q,qqçq,,–––,q––––q,qq,qqqçq–ç,,¢q,q,qç,¢,qçq,¢q]––]¢qqq,,,,q,qqqq]q,q–––q–––qqq,çqçqç,,¢,q–––qqçqq,qqqŽçq,q,,¢,q¢¢,,,,,,q,,¢q¢q––––]qqç]––––––––qq,ç,çqqq¢q,,q,qçqçqqqqq,,¢qq,Žqç,,q,qqqqqq¢qqç],qq¢q,,qçqqçqqqq]q,,¢,¢,,],qqqçq,q––,––qç,qqqq¢–––q,qqqq,–––––,qq––––ç,qq¢çqq,qq¢,qqq,qqq,qq,çq,çqqqçq,,qq¢qqqqç,,qq]qq,qqqçq]qq,q–––––,¢q,,,,]qq¢çqçqqq,¢q–––––,q,]––q–q,,¢,,qIq,q,qq,,,]q–––––,,ççqqq––––Óqççqqqq,q,qqq¢qçqç¢q–––qqqqqqŽqqqqqqqq––qq¢çq–––,],qqqq,q,qqç,qq,q,q,¢çqqq¢¢,q–––,,,qqç,çç]qç,qç,çq,,,,,ç¢,çq]q,–––––––¢ç,q,q¢¢,]¢qq–,,çq,qqqq¢––,q¢çqq––––qç¢,çqqq],q,qq,qqq,çq,qç,q,qq,qqq,qqqqq––––,,ç,,]qq,q,qq,¢],ç]¢qçç––qq,q,qçqqqq¢––––q,¢–––qqqqqqq,¢qq–––––––çqqçqqqqqç,,q,qq¢q,,,ç,,çç,qqq,qqç––––,çqççq],qq,,¢q,,,q,¢,qqqç¢ç,qq,çq,q,q,q–––––q,qçqqqqq,qçq–––]Ž,¢,,]q,qçqqqqqqqqqq–q,¢ç,qç,qqqçqqq¢],,çqq¢,çq–––,q]],¢,qç,çqçq,¢,–––ç,qq,q,qqq,qçqçqqçqqqqqq],,ç¢ç¢,–––––¢,,q,qq,q,,,¢,I¢q¢çqq¢çqq,,ç–––––––,]q,,,¢qqç,qqq,––––,çq,ç,,qq–––q,qqqç,,,qç–––,||
+
+,¢¢qqq]qq,q],,qqq,,çç,çqqŽqqqq,q¢qç]–––,q,,qq,q,çŽq]q,–––q,,q,qq,qqq¢¢,,Óqq,qçqq,q¢çqqq]q¢ç,q,,çqqç,,qq,¢çq¢,¢qqçq,qqqÓqçq,qq¢,q,q–––qçqqqqç,,çqq,çqq,qçç,qqqqqq]qqççqç]qqqqqqqqç,ç–––qçÓqq,qqç,q,çq,qqçqç¢q,q––––q,,qqqqqçqqqq,––––,q–––––]qqqqçqq]qqqç,qq,qqçq,ç––––çŽqqqq,qq¢q,,q,,qq,q,ç,¢çqçç,qq,]q,,]ç]qÓçqq,çqqq,ç,qqq–q––––,q,–––qq–––,qqq,qqçqq,¢],qq¢qqqqq–––q,q,q,,q,q,,qqqçç–––],q¢qq,qqqŽ,,qqçq,ç,,qqqqq,,,q]qçqç–––çqqqq,q,q––––––,qq,q,qqq––––q]qç,]ç,qçqççç,¢¢––––,,,qqç,]çq,qqq¢,çq,q],qq¢q–q],,çq]qqqqqqq,,q]çqqq–––,,q,q––¢q,,qqç,,qqq,¢qqqq,,qqqq¢çq¢,qqç¢,]¢ç–––¢qçç]çq,q––––q,]çqq,q,,q,,qçqqqçç,qqqqqqqç]qqqç]q,qqqqq,qqq––––q,qqqq¢,qçqqç––––––çqqqqçqçq¢q,q,çqqqq¢,çq]],çq¢–––qqqq]qqçq,,¢––––––––,,q,––––––q,q]çqq,qq,q,,,çq]q¢,,çq,ç,qçqqqq,q¢qqq,,¢¢çq,qq,––––,,–––––––¢]––––,,q,qq,qqqq¢çç,¢q¢,qç,,qq,çqq,q,,qqqqq,––,ç,,çç¢¢çq,¢qçqq––––,qqq,,qq,Içq,qqq,–––q––––qqÓqçq,q,,,,çççqqç,qqqqq]q,qq]–––––––––ççç,,q,ç,qq,q¢q,q,,qq,,,,,qqç¢çqq¢qq,,,q,çqçqq,,qç,,qq,,q,q,qÓç–––,q,q¢Óqq,Ó,,qq,q,qq¢qqqqq¢,q–––q,,q–––qqq¢––––––q¢,,qq,qq¢¢¢qqq,q,,,,,qqç,ç–––qçqq],q,¢,,,ç,q]çqqq,¢qç¢qqqq¢q,q,]q,q,q,,––¢,qqq¢,çq,,qç]q]qqqçç¢¢qçqqçq¢–q,,qq]–––q,q,,qqq,ç¢,,,qçqçqqqçqqq,çq,¢,q,q]qqq–––––––,qqqqq]qqqqç––––qqçç]qq––––––qqçqqIqq,,q–––q¢çç],ç,––––qqqqqç,çqçqqÓq,qççqqqq,,q¢¢,qq,qqÓŽqççq,,,,ççqq,qçq]qqq,q],q,ç,qqqq,qqqqŽ,qççqq,q,,q,¢]q,qq,q]ç,ç,çqqqqçq,¢qqq,q––––],ççqq–––¢––––],qqq,qq–––q,,q]q¢ç.çqqq,––––––––––qq,qq––––,q,qq,,,çç–qq,qqqçq,,,çq,¢q,qq,qç,q,q¢q,,¢çç,ç],,q,q–––q,qççq

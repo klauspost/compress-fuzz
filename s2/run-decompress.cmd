@@ -1,4 +1,5 @@
 SET CORPUS=decompress
+SET GO111MODULE=off
 del /Q fuzz-build.zip
 del /Q %CORPUS%\crashers\*.*
 del /Q %CORPUS%\suppressions\*.*
