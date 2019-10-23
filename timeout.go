@@ -23,7 +23,6 @@ func main() {
 	if len(args) == 0 {
 		log.Fatal("No command specified")
 	}
-	// We'll use ping as it will provide output and we can control how long it runs.
 	cmd := exec.Command(args[0], args[1:]...)
 
 	var wg sync.WaitGroup
