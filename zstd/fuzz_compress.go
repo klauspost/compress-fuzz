@@ -55,8 +55,17 @@ func FuzzCompress(data []byte) int {
 	for level := zstd.EncoderLevel(speedNotSet + 1); level < speedLast; level++ {
 		var dst bytes.Buffer
 		enc := encs[level]
+		// Create a buffer that will usually be too small.
+		var bufSize = len(data)
+		if bufSize > 2 {
+			// Make deterministic size
+			bufSize = int(data[0]) | int(data[1])<<8
+			if bufSize >= len(data) {
+				bufSize = len(data) / 2
+			}
+		}
 		//enc, err := NewWriter(nil, WithEncoderCRC(true), WithEncoderLevel(level), WithEncoderConcurrency(1))
-		encoded := enc.EncodeAll(data, make([]byte, 0, len(data)))
+		encoded := enc.EncodeAll(data, make([]byte, 0, bufSize))
 		enc.Reset(&dst)
 
 		n, err := enc.Write(data)
@@ -70,7 +79,7 @@ func FuzzCompress(data []byte) int {
 		if err != nil {
 			panic(err)
 		}
-		got, err := dec.DecodeAll(encoded, make([]byte, 0, len(data)))
+		got, err := dec.DecodeAll(encoded, make([]byte, 0, bufSize))
 		if err != nil {
 			panic(fmt.Sprintln("Level", level, "DecodeAll error:", err, "got:", got, "want:", data, "encoded", encoded))
 		}
@@ -79,7 +88,7 @@ func FuzzCompress(data []byte) int {
 		}
 
 		encoded = dst.Bytes()
-		got, err = dec.DecodeAll(encoded, make([]byte, 0, len(data)))
+		got, err = dec.DecodeAll(encoded, make([]byte, 0, bufSize))
 		if err != nil {
 			panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) error:", err, "got:", got, "want:", data, "encoded", encoded))
 		}
