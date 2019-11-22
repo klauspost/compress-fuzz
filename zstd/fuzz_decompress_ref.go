@@ -5,8 +5,6 @@ package fuzzzstd
 import (
 	"bytes"
 	"fmt"
-	"io"
-	"io/ioutil"
 
 	ddzstd "github.com/DataDog/zstd"
 	"github.com/klauspost/compress/zstd"
