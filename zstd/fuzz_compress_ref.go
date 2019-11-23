@@ -10,8 +10,6 @@ import (
 )
 
 func FuzzCompressRef(data []byte) int {
-	mu.Lock()
-	defer mu.Unlock()
 	// Run test against our decoder from DataDog zstd package
 	for level := 1; level < 6; level++ {
 		// Create a buffer that will usually be too small.
@@ -36,6 +34,10 @@ func FuzzCompressRef(data []byte) int {
 		if !bytes.Equal(got, data) {
 			panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch", got, "(got) != ", data, "(want)", "encoded", encoded))
 		}
+	}
+	if len(data) > 64<<10 {
+		// Prefer small for now.
+		return 0
 	}
 	return 1
 }
