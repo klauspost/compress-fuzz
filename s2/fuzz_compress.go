@@ -21,9 +21,9 @@ func FuzzCompress(data []byte) int {
 	if mel := s2.MaxEncodedLen(len(data)); len(comp) > mel {
 		panic(fmt.Errorf("s2.MaxEncodedLen Exceed: input: %d, mel: %d, got %d", len(data), mel, len(comp)))
 	}
-	// Test writer:
+	// Test writer and use "better":
 	var buf bytes.Buffer
-	enc := s2.NewWriter(&buf, s2.WriterConcurrency(2), s2.WriterPadding(255))
+	enc := s2.NewWriter(&buf, s2.WriterConcurrency(2), s2.WriterPadding(255), s2.WriterBetterCompression())
 	defer enc.Close()
 	n, err := enc.Write(data)
 	if err != nil {
