@@ -44,7 +44,7 @@ func init() {
 		panic(err)
 	}
 	for level := zstd.EncoderLevel(speedNotSet + 1); level < speedLast; level++ {
-		encs[level], err = zstd.NewWriter(nil, zstd.WithEncoderCRC(false), zstd.WithEncoderLevel(level), zstd.WithEncoderConcurrency(1), zstd.WithWindowSize(128<<10))
+		encs[level], err = zstd.NewWriter(nil, zstd.WithEncoderCRC(false), zstd.WithEncoderLevel(level), zstd.WithEncoderConcurrency(2), zstd.WithWindowSize(128<<10), zstd.WithZeroFrames(true))
 	}
 }
 

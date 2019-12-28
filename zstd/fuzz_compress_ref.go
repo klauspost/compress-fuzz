@@ -6,12 +6,18 @@ import (
 	"bytes"
 	"fmt"
 
-	ddz "github.com/DataDog/zstd"
+	ddzstd "github.com/DataDog/zstd"
+	"github.com/klauspost/compress/zstd"
 )
 
 func FuzzCompressRef(data []byte) int {
-	// Run test against our decoder from DataDog zstd package
-	for level := 1; level < 6; level++ {
+	// Runs Go encoder but decompresses with datadog zstd.
+	mu.Lock()
+	defer mu.Unlock()
+	// Run test against out decoder
+	for level := zstd.EncoderLevel(speedNotSet + 1); level < speedLast; level++ {
+		var dst bytes.Buffer
+		enc := encs[level]
 		// Create a buffer that will usually be too small.
 		var bufSize = len(data)
 		if bufSize > 2 {
@@ -21,23 +27,37 @@ func FuzzCompressRef(data []byte) int {
 				bufSize = len(data) / 2
 			}
 		}
-		dst := make([]byte, bufSize)
-		encoded, err := ddz.CompressLevel(dst, data, level)
+		enc.Reset(&dst)
+		n, err := enc.Write(data)
 		if err != nil {
 			panic(err)
 		}
+		if n != len(data) {
+			panic(fmt.Sprintln("Level", level, "Short write, got:", n, "want:", len(data)))
+		}
 
-		got, err := dec.DecodeAll(encoded, make([]byte, 0, bufSize))
+		encoded := enc.EncodeAll(data, make([]byte, 0, bufSize))
+
+		err = enc.Close()
 		if err != nil {
-			panic(fmt.Sprintln("Level", level, "DecodeAll error:", err, "got:", got, "want:", data, "encoded", encoded))
+			panic(err)
+		}
+		got, err := ddzstd.Decompress(make([]byte, 0, bufSize), encoded)
+		if err != nil {
+			panic(fmt.Sprintln("Level", level, "DecodeAll error:", err, "\nwant:", data, "\nencoded", encoded))
 		}
 		if !bytes.Equal(got, data) {
-			panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch", got, "(got) != ", data, "(want)", "encoded", encoded))
+			panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch\n", got, "(got) != \n", data, "(want)", "\nencoded:", encoded))
 		}
-	}
-	if len(data) > 64<<10 {
-		// Prefer small for now.
-		return 0
+
+		encoded = dst.Bytes()
+		got, err = ddzstd.Decompress(make([]byte, 0, bufSize), encoded)
+		if err != nil {
+			panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) error:", err, "\ngot:", got, "\nwant:", data, "\nencoded", encoded))
+		}
+		if !bytes.Equal(got, data) {
+			panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch\n", got, "(got) != \n", data, "(want)", "\nencoded:", encoded))
+		}
 	}
 	return 1
 }
