@@ -10,5 +10,5 @@ go-fuzz-build -tags=datadog -o=fuzz-build.zip -func=FuzzCompressRef .
 
 
 :LOOP
-go run ../timeout.go -duration=15m go-fuzz -minimize=5s -bin=fuzz-build.zip -workdir=%CORPUS% -procs=%PROCS%
+go run ../timeout.go -duration=10m go-fuzz -minimize=5s -bin=fuzz-build.zip -workdir=%CORPUS% -procs=%PROCS%
 GOTO LOOP

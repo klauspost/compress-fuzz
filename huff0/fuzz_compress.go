@@ -8,6 +8,9 @@ import (
 )
 
 func FuzzCompress(data []byte) int {
+	if len(data) > huff0.BlockSizeMax {
+		return 0
+	}
 	var enc huff0.Scratch
 	enc.WantLogLess = 5
 	comp, _, err := huff0.Compress1X(data, &enc)
