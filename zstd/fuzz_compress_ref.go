@@ -44,19 +44,19 @@ func FuzzCompressRef(data []byte) int {
 		}
 		got, err := ddzstd.Decompress(make([]byte, 0, bufSize), encoded)
 		if err != nil {
-			panic(fmt.Sprintln("Level", level, "DecodeAll error:", err, "\nwant:", data, "\nencoded", encoded))
+			panic(fmt.Sprintln("Level", level, "DecodeAll error:", err, "\nwant:", len(data), "\nencoded", len(encoded)))
 		}
 		if !bytes.Equal(got, data) {
-			panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch\n", got, "(got) != \n", data, "(want)", "\nencoded:", encoded))
+			panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch\n", len(got), "(got) != \n", len(data), "(want)", "\nencoded:", len(encoded)))
 		}
 
 		encoded = dst.Bytes()
 		got, err = ddzstd.Decompress(make([]byte, 0, bufSize), encoded)
 		if err != nil {
-			panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) error:", err, "\ngot:", got, "\nwant:", data, "\nencoded", encoded))
+			panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) error:", err, "\nwant:", len(data), "\nencoded", len(encoded)))
 		}
 		if !bytes.Equal(got, data) {
-			panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch\n", got, "(got) != \n", data, "(want)", "\nencoded:", encoded))
+			panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) output mismatch\n", len(got), "(got) != \n", len(data), "(want)", "\nencoded:", len(encoded)))
 		}
 	}
 	return 1
