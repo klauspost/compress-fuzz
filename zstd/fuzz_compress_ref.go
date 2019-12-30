@@ -5,6 +5,10 @@ package fuzzzstd
 import (
 	"bytes"
 	"fmt"
+	"hash/crc32"
+	"io/ioutil"
+	"os"
+	"strconv"
 
 	ddzstd "github.com/DataDog/zstd"
 	"github.com/klauspost/compress/zstd"
@@ -44,18 +48,22 @@ func FuzzCompressRef(data []byte) int {
 		}
 		got, err := ddzstd.Decompress(make([]byte, 0, bufSize), encoded)
 		if err != nil {
+			ioutil.WriteFile("crash-"+strconv.Itoa(int(crc32.Checksum(data, crc32.IEEETable)))+".zst", encoded, os.ModePerm)
 			panic(fmt.Sprintln("Level", level, "DecodeAll error:", err, "\nwant:", len(data), "\nencoded", len(encoded)))
 		}
 		if !bytes.Equal(got, data) {
+			ioutil.WriteFile("crash-"+strconv.Itoa(int(crc32.Checksum(data, crc32.IEEETable)))+".zst", encoded, os.ModePerm)
 			panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch\n", len(got), "(got) != \n", len(data), "(want)", "\nencoded:", len(encoded)))
 		}
 
 		encoded = dst.Bytes()
 		got, err = ddzstd.Decompress(make([]byte, 0, bufSize), encoded)
 		if err != nil {
+			ioutil.WriteFile("crash-"+strconv.Itoa(int(crc32.Checksum(data, crc32.IEEETable)))+".zst", encoded, os.ModePerm)
 			panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) error:", err, "\nwant:", len(data), "\nencoded", len(encoded)))
 		}
 		if !bytes.Equal(got, data) {
+			ioutil.WriteFile("crash-"+strconv.Itoa(int(crc32.Checksum(data, crc32.IEEETable)))+".zst", encoded, os.ModePerm)
 			panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) output mismatch\n", len(got), "(got) != \n", len(data), "(want)", "\nencoded:", len(encoded)))
 		}
 	}
