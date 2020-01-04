@@ -50,6 +50,7 @@ func initEnc() {
 }
 
 func FuzzCompress(data []byte) int {
+	once.Do(initEnc)
 	mu.Lock()
 	defer mu.Unlock()
 	// Run test against out decoder
