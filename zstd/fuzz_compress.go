@@ -36,8 +36,9 @@ const (
 var dec *zstd.Decoder
 var encs [speedLast]*zstd.Encoder
 var mu sync.Mutex
+var once sync.Once
 
-func init() {
+func initEnc() {
 	var err error
 	dec, err = zstd.NewReader(nil, zstd.WithDecoderConcurrency(1))
 	if err != nil {
