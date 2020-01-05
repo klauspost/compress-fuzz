@@ -8,11 +8,11 @@ import (
 )
 
 func FuzzCompress(data []byte) int {
-	if len(data) > huff0.BlockSizeMax {
+	if len(data) > huff0.BlockSizeMax || len(data) == 0 {
 		return 0
 	}
 	var enc huff0.Scratch
-	enc.WantLogLess = 5
+	enc.WantLogLess = data[0] & 15
 	comp, _, err := huff0.Compress1X(data, &enc)
 	if err == huff0.ErrIncompressible || err == huff0.ErrUseRLE || err == huff0.ErrTooBig {
 		return 0
@@ -24,7 +24,7 @@ func FuzzCompress(data []byte) int {
 	if err != nil {
 		panic(err)
 	}
-	if len(comp) >= len(data)-len(data)>>enc.WantLogLess {
+	if enc.WantLogLess > 0 && len(comp) >= len(data)-len(data)>>enc.WantLogLess {
 		panic(fmt.Errorf("too large output provided. got %d, but should be < %d", len(comp), len(data)-len(data)>>enc.WantLogLess))
 	}
 	out, err := dec.Decompress1X(remain)
@@ -43,7 +43,7 @@ func FuzzCompress(data []byte) int {
 	if err != nil {
 		panic(err)
 	}
-	if len(comp) >= len(data)-len(data)>>enc.WantLogLess {
+	if enc.WantLogLess > 0 && len(comp) >= len(data)-len(data)>>enc.WantLogLess {
 		panic(fmt.Errorf("too large output provided. got %d, but should be < %d", len(comp), len(data)-len(data)>>enc.WantLogLess))
 	}
 
@@ -73,7 +73,7 @@ func FuzzCompress(data []byte) int {
 	if reUsed {
 		panic("reused when asked not to")
 	}
-	if len(comp) >= len(data)-len(data)>>enc.WantLogLess {
+	if enc.WantLogLess > 0 && len(comp) >= len(data)-len(data)>>enc.WantLogLess {
 		panic(fmt.Errorf("too large output provided. got %d, but should be < %d", len(comp), len(data)-len(data)>>enc.WantLogLess))
 	}
 
@@ -98,7 +98,7 @@ func FuzzCompress(data []byte) int {
 	if err != nil {
 		panic(err)
 	}
-	if len(comp) >= len(data)-len(data)>>enc.WantLogLess {
+	if enc.WantLogLess > 0 && len(comp) >= len(data)-len(data)>>enc.WantLogLess {
 		panic(fmt.Errorf("too large output provided. got %d, but should be < %d", len(comp), len(data)-len(data)>>enc.WantLogLess))
 	}
 
