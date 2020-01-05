@@ -51,25 +51,23 @@ func initEnc() {
 
 func FuzzCompress(data []byte) int {
 	once.Do(initEnc)
-	mu.Lock()
-	defer mu.Unlock()
 	// Run test against out decoder
-	for level := zstd.EncoderLevel(speedNotSet + 1); level < speedLast; level++ {
-		var dst bytes.Buffer
-		enc := encs[level]
-		// Create a buffer that will usually be too small.
-		var bufSize = len(data)
-		if bufSize > 2 {
-			// Make deterministic size
-			bufSize = int(data[0]) | int(data[1])<<8
-			if bufSize >= len(data) {
-				bufSize = len(data) / 2
-			}
-		}
-		//enc, err := NewWriter(nil, WithEncoderCRC(true), WithEncoderLevel(level), WithEncoderConcurrency(1))
-		encoded := enc.EncodeAll(data, make([]byte, 0, bufSize))
-		enc.Reset(&dst)
+	var dst bytes.Buffer
 
+	// Create a buffer that will usually be too small.
+	var bufSize = len(data)
+	if bufSize > 2 {
+		// Make deterministic size
+		bufSize = int(data[0]) | int(data[1])<<8
+		if bufSize >= len(data) {
+			bufSize = len(data) / 2
+		}
+	}
+
+	for level := zstd.EncoderLevel(speedNotSet + 1); level < speedLast; level++ {
+		enc := encs[level]
+		dst.Reset()
+		enc.Reset(&dst)
 		n, err := enc.Write(data)
 		if err != nil {
 			panic(err)
@@ -77,25 +75,26 @@ func FuzzCompress(data []byte) int {
 		if n != len(data) {
 			panic(fmt.Sprintln("Level", level, "Short write, got:", n, "want:", len(data)))
 		}
-		err = enc.Close()
-		if err != nil {
-			panic(err)
-		}
+
+		encoded := enc.EncodeAll(data, make([]byte, 0, bufSize))
 		got, err := dec.DecodeAll(encoded, make([]byte, 0, bufSize))
 		if err != nil {
-			panic(fmt.Sprintln("Level", level, "DecodeAll error:", err, "got:", got, "want:", data, "encoded", encoded))
+			panic(fmt.Sprintln("Level", level, "DecodeAll error:", err, "\norg:", len(data), "\nencoded", len(encoded)))
 		}
 		if !bytes.Equal(got, data) {
-			panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch", got, "(got) != ", data, "(want)", "encoded", encoded))
+			panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch\n", len(got), "org: \n", len(data), "(want)", "\nencoded:", len(encoded)))
 		}
 
-		encoded = dst.Bytes()
-		got, err = dec.DecodeAll(encoded, make([]byte, 0, bufSize))
-		if err != nil {
-			panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) error:", err, "got:", got, "want:", data, "encoded", encoded))
-		}
-		if !bytes.Equal(got, data) {
-			panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) output mismatch", got, "(got) != ", data, "(want)", "encoded", encoded))
+		err = enc.Close()
+		encoded2 := dst.Bytes()
+		if !bytes.Equal(encoded, encoded2) {
+			got, err = dec.DecodeAll(encoded2, got[:0])
+			if err != nil {
+				panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) error:", err, "\norg:", len(data), "\nencoded", len(encoded2)))
+			}
+			if !bytes.Equal(got, data) {
+				panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) output mismatch\n", len(got), "org: \n", len(data), "(want)", "\nencoded:", len(encoded2)))
+			}
 		}
 	}
 	return 1
