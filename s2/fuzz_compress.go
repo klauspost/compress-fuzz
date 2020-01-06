@@ -4,13 +4,26 @@ import (
 	"bytes"
 	"fmt"
 	"io/ioutil"
+	"sync"
 
 	"github.com/klauspost/compress/s2"
 )
 
+var dec *s2.Reader
+var enc *s2.Writer
+var encBetter *s2.Writer
+var once sync.Once
+
+func initEnc() {
+	dec = s2.NewReader(nil)
+	enc = s2.NewWriter(nil, s2.WriterConcurrency(2), s2.WriterPadding(255), s2.WriterBlockSize(128<<10))
+	encBetter = s2.NewWriter(nil, s2.WriterConcurrency(2), s2.WriterPadding(255), s2.WriterBetterCompression(), s2.WriterBlockSize(512<<10))
+}
+
 func FuzzCompress(data []byte) int {
+	once.Do(initEnc)
 	// Test block.
-	comp := s2.Encode(nil, data)
+	comp := s2.Encode(make([]byte, 0, len(data)/2), data)
 	decoded, err := s2.Decode(nil, comp)
 	if err != nil {
 		panic(err)
@@ -23,21 +36,20 @@ func FuzzCompress(data []byte) int {
 	}
 	// Test writer and use "better":
 	var buf bytes.Buffer
-	enc := s2.NewWriter(&buf, s2.WriterConcurrency(2), s2.WriterPadding(255), s2.WriterBetterCompression())
-	defer enc.Close()
-	n, err := enc.Write(data)
+	encBetter.Reset(&buf)
+	n, err := encBetter.Write(data)
 	if err != nil {
 		panic(err)
 	}
 	if n != len(data) {
 		panic(fmt.Errorf("Write: Short write, want %d, got %d", len(data), n))
 	}
-	err = enc.Close()
+	err = encBetter.Close()
 	if err != nil {
 		panic(err)
 	}
 	// Calling close twice should not affect anything.
-	err = enc.Close()
+	err = encBetter.Close()
 	if err != nil {
 		panic(err)
 	}
@@ -45,7 +57,7 @@ func FuzzCompress(data []byte) int {
 	if len(comp)%255 != 0 {
 		panic(fmt.Errorf("wanted size to be mutiple of %d, got size %d with remainder %d", 255, len(comp), len(comp)%255))
 	}
-	dec := s2.NewReader(&buf)
+	dec.Reset(&buf)
 	got, err := ioutil.ReadAll(dec)
 	if err != nil {
 		panic(err)

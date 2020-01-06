@@ -5,7 +5,7 @@ del /Q %CORPUS%\crashers\*.*
 del /Q %CORPUS%\suppressions\*.*
 SET /a PROCS=%NUMBER_OF_PROCESSORS%*3/4
 
-go-fuzz-build -o=fuzz-build.zip -tags=noasm -func=FuzzCompress .
+go-fuzz-build -o=fuzz-build.zip -func=FuzzCompress .
 
 :LOOP
 go run ../timeout.go -duration=5m go-fuzz -minimize=5s -bin=fuzz-build.zip -workdir=%CORPUS% -procs=%PROCS%
