@@ -3,6 +3,7 @@ package fuzzs2
 import (
 	"bytes"
 	"fmt"
+	"github.com/golang/snappy"
 	"io/ioutil"
 	"sync"
 
@@ -66,7 +67,7 @@ func FuzzCompress(data []byte) int {
 		panic("block (reset) decoder mismatch")
 	}
 
-	// Test Reset on both and use ReadFrom instead.
+	// Test Reset on both and use ReadFrom and EncodeBuffer instead.
 	input := bytes.NewBuffer(data)
 	buf = bytes.Buffer{}
 	enc.Reset(&buf)
@@ -77,6 +78,11 @@ func FuzzCompress(data []byte) int {
 	if n2 != int64(len(data)) {
 		panic(fmt.Errorf("ReadFrom: Short read, want %d, got %d", len(data), n2))
 	}
+	err = enc.EncodeBuffer(data)
+	if err != nil {
+		panic(err)
+	}
+
 	err = enc.Close()
 	if err != nil {
 		panic(err)
@@ -89,8 +95,24 @@ func FuzzCompress(data []byte) int {
 	if err != nil {
 		panic(err)
 	}
+	if !bytes.Equal(data, got[:len(data)]) {
+		panic("frame (reset) decoder mismatch, part 1")
+	}
+	if !bytes.Equal(data, got[len(data):]) {
+		panic("frame (reset) decoder mismatch, part 2")
+	}
+
+	// Finally test stateless snappy.
+	comp = s2.EncodeSnappy(comp, data)
+	got, err = snappy.Decode(make([]byte, len(data)), comp)
+	if err != nil {
+		panic(err)
+	}
 	if !bytes.Equal(data, got) {
-		panic("frame (reset) decoder mismatch")
+		panic("snappy block decoder mismatch")
+	}
+	if mel := s2.MaxEncodedLen(len(data)); len(comp) > mel {
+		panic(fmt.Errorf("snappy block, s2.MaxEncodedLen Exceed: input: %d, mel: %d, got %d", len(data), mel, len(comp)))
 	}
 
 	return 1
