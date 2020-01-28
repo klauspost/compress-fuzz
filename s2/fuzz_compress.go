@@ -3,11 +3,11 @@ package fuzzs2
 import (
 	"bytes"
 	"fmt"
-	"github.com/golang/snappy"
 	"io/ioutil"
 	"sync"
 
 	"github.com/klauspost/compress/s2"
+	"github.com/klauspost/compress/snappy"
 )
 
 var dec *s2.Reader
