@@ -8,34 +8,8 @@ import (
 	"github.com/klauspost/compress/zstd"
 )
 
-const (
-	speedNotSet zstd.EncoderLevel = iota
-
-	// SpeedFastest will choose the fastest reasonable compression.
-	// This is roughly equivalent to the fastest Zstandard mode.
-	SpeedFastest
-
-	// SpeedDefault is the default "pretty fast" compression option.
-	// This is roughly equivalent to the default Zstandard mode (level 3).
-	SpeedDefault
-
-	// speedLast should be kept as the last actual compression option.
-	// The is not for external usage, but is used to keep track of the valid options.
-	speedLast
-
-	// SpeedBetterCompression will (in the future) yield better compression than the default,
-	// but at approximately 4x the CPU usage of the default.
-	// For now this is not implemented.
-	SpeedBetterCompression = SpeedDefault
-
-	// SpeedBestCompression will choose the best available compression option.
-	// For now this is not implemented.
-	SpeedBestCompression = SpeedDefault
-)
-
 var dec *zstd.Decoder
-var encs [speedLast]*zstd.Encoder
-var mu sync.Mutex
+var encs [zstd.SpeedBestCompression + 1]*zstd.Encoder
 var once sync.Once
 
 func initEnc() {
@@ -44,7 +18,7 @@ func initEnc() {
 	if err != nil {
 		panic(err)
 	}
-	for level := zstd.EncoderLevel(speedNotSet + 1); level < speedLast; level++ {
+	for level := zstd.SpeedFastest; level <= zstd.SpeedBestCompression; level++ {
 		encs[level], err = zstd.NewWriter(nil, zstd.WithEncoderCRC(false), zstd.WithEncoderLevel(level), zstd.WithEncoderConcurrency(2), zstd.WithWindowSize(128<<10), zstd.WithZeroFrames(true))
 	}
 }
@@ -64,7 +38,7 @@ func FuzzCompress(data []byte) int {
 		}
 	}
 
-	for level := zstd.EncoderLevel(speedNotSet + 1); level < speedLast; level++ {
+	for level := zstd.SpeedFastest; level <= zstd.SpeedBestCompression; level++ {
 		enc := encs[level]
 		dst.Reset()
 		enc.Reset(&dst)

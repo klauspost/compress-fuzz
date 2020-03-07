@@ -31,7 +31,7 @@ func FuzzCompressRef(data []byte) int {
 	}
 
 	// Run test against out decoder
-	for level := zstd.EncoderLevel(speedNotSet + 1); level < speedLast; level++ {
+	for level := zstd.SpeedFastest; level <= zstd.SpeedBestCompression; level++ {
 		enc := encs[level]
 		dst.Reset()
 		enc.Reset(&dst)
