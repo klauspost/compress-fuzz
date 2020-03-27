@@ -19,7 +19,7 @@ func initEnc() {
 		panic(err)
 	}
 	for level := zstd.SpeedFastest; level <= zstd.SpeedBestCompression; level++ {
-		encs[level], err = zstd.NewWriter(nil, zstd.WithEncoderCRC(false), zstd.WithEncoderLevel(level), zstd.WithEncoderConcurrency(2), zstd.WithWindowSize(128<<10), zstd.WithZeroFrames(true))
+		encs[level], err = zstd.NewWriter(nil, zstd.WithEncoderCRC(true), zstd.WithEncoderLevel(level), zstd.WithEncoderConcurrency(2), zstd.WithWindowSize(128<<10), zstd.WithZeroFrames(true))
 	}
 }
 
@@ -60,6 +60,9 @@ func FuzzCompress(data []byte) int {
 		}
 
 		err = enc.Close()
+		if err != nil {
+			panic(fmt.Sprintln("Level", level, "Close (buffer) error:", err))
+		}
 		encoded2 := dst.Bytes()
 		if !bytes.Equal(encoded, encoded2) {
 			got, err = dec.DecodeAll(encoded2, got[:0])

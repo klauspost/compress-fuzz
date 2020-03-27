@@ -5,8 +5,8 @@ del /Q %CORPUS%\crashers\*.*
 del /Q %CORPUS%\suppressions\*.*
 SET /a PROCS=%NUMBER_OF_PROCESSORS%*3/4
 
-REM go-fuzz-build -o=fuzz-build.zip -func=FuzzCompress .
-go-fuzz-build -tags=datadog -o=fuzz-build.zip -func=FuzzCompressRef .
+go-fuzz-build -o=fuzz-build.zip -func=FuzzCompress .
+REM go-fuzz-build -tags=datadog -o=fuzz-build.zip -func=FuzzCompressRef .
 
 
 :LOOP
