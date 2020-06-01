@@ -14,6 +14,10 @@ func FuzzDecompress(data []byte) int {
 	if err != nil {
 		return 0
 	}
+	err = dec.RegisterDict(dictBytes)
+	if err != nil {
+		panic(err)
+	}
 	defer dec.Close()
 	_, err = io.Copy(ioutil.Discard, dec)
 	switch err {
