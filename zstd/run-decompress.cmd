@@ -8,5 +8,5 @@ SET /a PROCS=%NUMBER_OF_PROCESSORS%*3/4
 go-fuzz-build -o=fuzz-build-%CORPUS%.zip -tags=noasm -func=FuzzDecompress .
 
 :LOOP
-go run ../timeout.go -duration=10m go-fuzz -minimize=5s -bin=fuzz-build-%CORPUS%.zip -workdir=%CORPUS% -procs=%PROCS%
+go run ../timeout.go -duration=05m go-fuzz -minimize=5s -bin=fuzz-build-%CORPUS%.zip -workdir=%CORPUS% -procs=%PROCS%
 GOTO LOOP
