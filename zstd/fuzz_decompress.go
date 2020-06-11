@@ -10,13 +10,14 @@ import (
 )
 
 func FuzzDecompress(data []byte) int {
-	dec, err := zstd.NewReader(bytes.NewBuffer(data), zstd.WithDecoderLowmem(true), zstd.WithDecoderConcurrency(1), zstd.WithDecoderMaxMemory(10<<20))
+	dec, err := zstd.NewReader(bytes.NewBuffer(data),
+		zstd.WithDecoderLowmem(true),
+		zstd.WithDecoderConcurrency(1),
+		zstd.WithDecoderMaxMemory(10<<20),
+		zstd.WithDecoderDicts(dictBytes),
+	)
 	if err != nil {
 		return 0
-	}
-	err = dec.RegisterDict(dictBytes)
-	if err != nil {
-		panic(err)
 	}
 	defer dec.Close()
 	_, err = io.Copy(ioutil.Discard, dec)
