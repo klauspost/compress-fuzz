@@ -17,6 +17,7 @@ func FuzzCompress(data []byte) int {
 	if err == huff0.ErrIncompressible || err == huff0.ErrUseRLE {
 		return 0
 	}
+	table := append(make([]byte, 0, len(enc.OutTable)), enc.OutTable...)
 	if err != nil {
 		panic(err)
 	}
@@ -92,8 +93,17 @@ func FuzzCompress(data []byte) int {
 		panic("decompression 4x mismatch")
 	}
 
-	// Reuse as 1X
+	// Reuse as 1X, read table
 	dec.Reuse = huff0.ReusePolicyAllow
+	enc = huff0.Scratch{}
+	enc.Reuse = huff0.ReusePolicyMust
+	_, remain, err = huff0.ReadTable(table, &enc)
+	if err != nil {
+		panic(err)
+	}
+	if len(remain) != 0 {
+		panic(fmt.Sprintf("got extra when reading table: %d", len(remain)))
+	}
 	comp, reUsed, err = huff0.Compress1X(reUseData, &enc)
 	if err != huff0.ErrIncompressible && err != huff0.ErrUseRLE {
 		if err != nil {
@@ -103,14 +113,7 @@ func FuzzCompress(data []byte) int {
 			panic(fmt.Errorf("too large output provided. got %d, but should be < %d", len(comp), len(data)-len(data)>>enc.WantLogLess))
 		}
 
-		remain = comp
-		if !reUsed {
-			dec, remain, err = huff0.ReadTable(comp, dec)
-			if err != nil {
-				panic(err)
-			}
-		}
-		out, err = dec.Decompress1X(remain)
+		out, err = dec.Decompress1X(comp)
 		if err != nil {
 			panic(err)
 		}
