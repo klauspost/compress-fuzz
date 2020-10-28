@@ -22,6 +22,7 @@ func initEnc() {
 }
 
 func FuzzCompress(data []byte) int {
+	data = data[:len(data):len(data)]
 	once.Do(initEnc)
 	// Test block.
 	comp := s2.Encode(make([]byte, 0, len(data)/2), data)
@@ -35,6 +36,19 @@ func FuzzCompress(data []byte) int {
 	if mel := s2.MaxEncodedLen(len(data)); len(comp) > mel {
 		panic(fmt.Errorf("s2.MaxEncodedLen Exceed: input: %d, mel: %d, got %d", len(data), mel, len(comp)))
 	}
+
+	comp = s2.EncodeBetter(make([]byte, s2.MaxEncodedLen(len(data))), data)
+	decoded, err = s2.Decode(nil, comp)
+	if err != nil {
+		panic(err)
+	}
+	if !bytes.Equal(data, decoded) {
+		panic("block decoder mismatch")
+	}
+	if mel := s2.MaxEncodedLen(len(data)); len(comp) > mel {
+		panic(fmt.Errorf("MaxEncodedLen Exceed: input: %d, mel: %d, got %d", len(data), mel, len(comp)))
+	}
+
 	// Test writer and use "better":
 	var buf bytes.Buffer
 	encBetter.Reset(&buf)
