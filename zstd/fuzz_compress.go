@@ -117,3 +117,43 @@ func FuzzCompress(data []byte) int {
 	}
 	return 1
 }
+
+// FuzzCompressSimple will test a single level and only encoding all.
+// Can be good for generating corpus or checking a specific compression level.
+func FuzzCompressSimple(data []byte) int {
+	once.Do(initEnc)
+
+	// Create a buffer that will usually be too small.
+	var bufSize = len(data)
+	if bufSize > 2 {
+		// Make deterministic size
+		bufSize = int(data[0]) | int(data[1])<<8
+		if bufSize >= len(data) {
+			bufSize = len(data) / 2
+		}
+	}
+	const level = zstd.SpeedBestCompression
+	enc := encs[level]
+
+	encoded := enc.EncodeAll(data, make([]byte, 0, bufSize))
+	got, err := dec.DecodeAll(encoded, make([]byte, 0, len(data)))
+	if err != nil {
+		panic(fmt.Sprintln("Level", level, "DecodeAll error:", err, "\norg:", len(data), "\nencoded", len(encoded)))
+	}
+	if !bytes.Equal(got, data) {
+		panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch\n", len(got), "org: \n", len(data), "(want)", "\nencoded:", len(encoded)))
+	}
+
+	enc = encsD[level]
+
+	encoded = enc.EncodeAll(data, encoded[:0])
+	got, err = dec.DecodeAll(encoded, got[:0])
+	if err != nil {
+		panic(fmt.Sprintln("Dict Level", level, "DecodeAll error:", err, "\norg:", len(data), "\nencoded", len(encoded)))
+	}
+	if !bytes.Equal(got, data) {
+		panic(fmt.Sprintln("Dict Level", level, "DecodeAll output mismatch\n", len(got), "org: \n", len(data), "(want)", "\nencoded:", len(encoded)))
+	}
+
+	return 1
+}
