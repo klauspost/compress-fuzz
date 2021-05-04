@@ -132,7 +132,7 @@ func FuzzCompressSimple(data []byte) int {
 			bufSize = len(data) / 2
 		}
 	}
-	const level = zstd.SpeedBestCompression
+	const level = zstd.SpeedBetterCompression
 	enc := encs[level]
 
 	encoded := enc.EncodeAll(data, make([]byte, 0, bufSize))
