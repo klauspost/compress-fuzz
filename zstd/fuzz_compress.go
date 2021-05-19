@@ -14,6 +14,9 @@ var encs [zstd.SpeedBestCompression + 1]*zstd.Encoder
 var encsD [zstd.SpeedBestCompression + 1]*zstd.Encoder
 var once sync.Once
 
+// Also tests with dictionaries...
+const testDicts = true
+
 func initEnc() {
 	dict, err := ioutil.ReadFile("d0.dict")
 	if err != nil {
@@ -79,7 +82,9 @@ func FuzzCompress(data []byte) int {
 				panic(fmt.Sprintln("Level", level, "DecodeAll (buffer) output mismatch\n", len(got), "org: \n", len(data), "(want)", "\nencoded:", len(encoded2)))
 			}
 		}
-
+		if !testDicts {
+			continue
+		}
 		enc = encsD[level]
 		dst.Reset()
 		enc.Reset(&dst)
@@ -132,7 +137,7 @@ func FuzzCompressSimple(data []byte) int {
 			bufSize = len(data) / 2
 		}
 	}
-	const level = zstd.SpeedBetterCompression
+	const level = zstd.SpeedDefault
 	enc := encs[level]
 
 	encoded := enc.EncodeAll(data, make([]byte, 0, bufSize))
@@ -144,15 +149,18 @@ func FuzzCompressSimple(data []byte) int {
 		panic(fmt.Sprintln("Level", level, "DecodeAll output mismatch\n", len(got), "org: \n", len(data), "(want)", "\nencoded:", len(encoded)))
 	}
 
-	enc = encsD[level]
+	// Test with dictionary as well...
+	if testDicts {
+		enc = encsD[level]
 
-	encoded = enc.EncodeAll(data, encoded[:0])
-	got, err = dec.DecodeAll(encoded, got[:0])
-	if err != nil {
-		panic(fmt.Sprintln("Dict Level", level, "DecodeAll error:", err, "\norg:", len(data), "\nencoded", len(encoded)))
-	}
-	if !bytes.Equal(got, data) {
-		panic(fmt.Sprintln("Dict Level", level, "DecodeAll output mismatch\n", len(got), "org: \n", len(data), "(want)", "\nencoded:", len(encoded)))
+		encoded = enc.EncodeAll(data, encoded[:0])
+		got, err = dec.DecodeAll(encoded, got[:0])
+		if err != nil {
+			panic(fmt.Sprintln("Dict Level", level, "DecodeAll error:", err, "\norg:", len(data), "\nencoded", len(encoded)))
+		}
+		if !bytes.Equal(got, data) {
+			panic(fmt.Sprintln("Dict Level", level, "DecodeAll output mismatch\n", len(got), "org: \n", len(data), "(want)", "\nencoded:", len(encoded)))
+		}
 	}
 
 	return 1

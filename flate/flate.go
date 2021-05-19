@@ -8,19 +8,43 @@ import (
 	"io"
 	"io/ioutil"
 	"strconv"
+	"sync"
 
 	"github.com/klauspost/compress/flate"
 )
 
+const (
+	startLevel = -2
+	endLevel   = 9
+	maxSize    = 127 << 10
+	decodeOnly = false
+)
+
+var (
+	encs   [endLevel - startLevel + 1]*flate.Writer
+	reader io.ReadCloser
+	once   sync.Once
+)
+
+func initEnc() {
+	reader = flate.NewReader(nil)
+	for level := startLevel; level <= endLevel; level++ {
+		var err error
+		encs[level-startLevel], err = flate.NewWriter(nil, level)
+		if err != nil {
+			panic(err)
+		}
+	}
+}
+
 // Fuzz tests all encoding levels
 func Fuzz(data []byte) int {
-	const decodeOnly = false
+	once.Do(initEnc)
 	// Skip large blocks.
-	if len(data) > 1<<20 || (decodeOnly && len(data) > 32<<10) {
+	if len(data) > maxSize {
 		return 0
 	}
 
-	reader := flate.NewReader(nil)
 	decBuf := bytes.NewBuffer(make([]byte, 0, len(data)))
 	buf := bytes.NewBuffer(make([]byte, 0, len(data)))
 	readerReset := reader.(flate.Resetter)
@@ -80,16 +104,14 @@ func Fuzz(data []byte) int {
 		}
 	}
 
-	for level := -2; level <= 9; level++ {
+	for level := startLevel; level <= endLevel; level++ {
 		if decodeOnly {
 			break
 		}
 		msg := "level " + strconv.Itoa(level) + ":"
 		buf.Reset()
-		fw, err := flate.NewWriter(buf, level)
-		if err != nil {
-			panic(msg + err.Error())
-		}
+		fw := encs[level-startLevel]
+		fw.Reset(buf)
 		n, err := fw.Write(data)
 		if n != len(data) {
 			panic(msg + "short write")

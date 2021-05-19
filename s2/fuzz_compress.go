@@ -6,19 +6,21 @@ import (
 	"io/ioutil"
 	"sync"
 
+	"github.com/golang/snappy"
 	"github.com/klauspost/compress/s2"
-	"github.com/klauspost/compress/snappy"
 )
 
 var dec *s2.Reader
 var enc *s2.Writer
 var encBetter *s2.Writer
+var encBest *s2.Writer
 var once sync.Once
 
 func initEnc() {
 	dec = s2.NewReader(nil)
-	enc = s2.NewWriter(nil, s2.WriterConcurrency(2), s2.WriterPadding(255), s2.WriterBlockSize(128<<10))
-	encBetter = s2.NewWriter(nil, s2.WriterConcurrency(2), s2.WriterPadding(255), s2.WriterBetterCompression(), s2.WriterBlockSize(512<<10))
+	enc = s2.NewWriter(nil, s2.WriterConcurrency(2), s2.WriterPadding(255), s2.WriterBlockSize(16<<10))
+	encBetter = s2.NewWriter(nil, s2.WriterConcurrency(2), s2.WriterPadding(255), s2.WriterBetterCompression(), s2.WriterBlockSize(64<<10))
+	encBest = s2.NewWriter(nil, s2.WriterConcurrency(2), s2.WriterPadding(255), s2.WriterBetterCompression(), s2.WriterBlockSize(512<<10))
 }
 
 func FuzzCompress(data []byte) int {
@@ -37,7 +39,19 @@ func FuzzCompress(data []byte) int {
 		panic(fmt.Errorf("s2.MaxEncodedLen Exceed: input: %d, mel: %d, got %d", len(data), mel, len(comp)))
 	}
 
-	comp = s2.EncodeBetter(make([]byte, s2.MaxEncodedLen(len(data))), data)
+	comp = s2.EncodeBetter(comp, data)
+	decoded, err = s2.Decode(nil, comp)
+	if err != nil {
+		panic(err)
+	}
+	if !bytes.Equal(data, decoded) {
+		panic("block decoder mismatch")
+	}
+	if mel := s2.MaxEncodedLen(len(data)); len(comp) > mel {
+		panic(fmt.Errorf("MaxEncodedLen Exceed: input: %d, mel: %d, got %d", len(data), mel, len(comp)))
+	}
+
+	comp = s2.EncodeBest(comp, data)
 	decoded, err = s2.Decode(nil, comp)
 	if err != nil {
 		panic(err)
@@ -129,5 +143,32 @@ func FuzzCompress(data []byte) int {
 		panic(fmt.Errorf("snappy block, s2.MaxEncodedLen Exceed: input: %d, mel: %d, got %d", len(data), mel, len(comp)))
 	}
 
+	return 1
+}
+
+func FuzzCompressSingle(data []byte) int {
+	maxLen := s2.MaxEncodedLen(len(data))
+	dst := make([]byte, maxLen+1, maxLen+1)
+	dst[maxLen] = 0x39
+	// switch this to another
+	comp := s2.EncodeBest(dst[:], data)
+	if len(comp) > maxLen {
+		panic("too large output")
+	}
+	for _, v := range dst[maxLen : maxLen+1] {
+		if v != 0x39 {
+			panic(fmt.Sprintf("wrote extra out-of-bounds, want 0x39, got %x, %d -> %v (max %d)", v, len(data), len(comp), maxLen))
+		}
+	}
+	decoded, err := s2.Decode(nil, comp)
+	if err != nil {
+		panic(err)
+	}
+	if !bytes.Equal(data, decoded) {
+		panic("block decoder mismatch")
+	}
+	if mel := s2.MaxEncodedLen(len(data)); len(comp) > mel {
+		panic(fmt.Errorf("MaxEncodedLen Exceed: input: %d, mel: %d, got %d", len(data), mel, len(comp)))
+	}
 	return 1
 }
